@@ -1,11 +1,11 @@
-#config/core.php
-#config/database.php
+config/core.php
+config/database.php
 #sitio2.rar
 archivos/
 #API Project-23acac3b9957.p12
 #API Project-6818de595c4d.p12
 #Servidor-8daadf66d3ff.p12
-#webroot/index.php
+webroot/index.php
 #app_controller.php
 #app_model.php
 #tmp/
