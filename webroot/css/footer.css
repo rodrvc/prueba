@@ -1,0 +1,233 @@
+.footer {
+	float: left;
+	margin: 0px;
+	background-image: url(../img/footer-bg.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	height: 240px;
+	width: 100%;
+}
+.footer .mapsite {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	position:relative;
+}
+
+.footer .left {
+    float: left;
+    margin: 15px 5px 0 0;
+    width: 600px;
+}
+.footer .left .acerca-ske {
+    display: block;
+    float: left;
+    margin: 0 10px 0 0;
+    width: 190px;
+}
+.footer .left .acerca-ske h2 {
+	font-size: 12px;
+	text-transform: capitalize;
+	color: #606060;
+	text-decoration: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	font-weight: bold;
+	text-align: left;
+	font-family: 'Arial', Helvetica, sans-serif;
+}
+
+.footer .left .acerca-ske a {
+	color: #666;
+	font-size: 12px;
+	text-decoration: none;
+	float: left;
+	width: 190px;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 3px;
+	margin-left: 0px;
+	text-align: left;
+}
+.footer .left .acerca-ske a:hover {
+	color: #333;
+	text-decoration: underline;
+}
+
+.footer .left .acerca-ske span.bandera-ch {
+	background-image: url("../img/botones-social.png");
+	background-position: left -50px;
+	background-repeat: no-repeat;
+	float: left;
+	height: 13px;
+	width: 17px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.footer .left .acerca-ske h3 {
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	float: left;
+}
+.footer .mapsite .left .acerca-ske .datito {
+	float: left;
+	width: 190px;
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+}
+
+.footer .left .acerca-ske span.icon-mess {
+	background-image: url(../img/botones-social.png);
+	background-repeat: no-repeat;
+	background-position: left 2px;
+	float: left;
+	height: 13px;
+	width: 15px;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.footer .left .acerca-ske span.icon-mess.fono {
+	background-position: left -13px;
+	width: 16px;
+}
+.footer .left .acerca-ske span.icon-mess.depto {
+	background-position: left -30px;
+	height: 16px;
+}
+
+.footer .left .acerca-ske h4 {
+	font-size: 12px;
+	color: #161616;
+	text-decoration: none;
+	margin: 3px 0 0;
+	float: left;
+	width: 160px;
+	text-align: left;
+}
+.footer .left .leyton {
+	float: left;
+	width: 580px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-image: url(../img/borde-bottom.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.footer .left .leyton span.logo-leyton {
+	background-image: url(../img/botones-social.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	float: left;
+	height: 30px;
+	width: 120px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+.footer .right {
+    background-image: url("../img/footer-marco.png");
+    background-position: right top;
+    background-repeat: no-repeat;
+    height: 211px;
+    margin-left: 0;
+    position: absolute;
+    right: -8px;
+    width: 349px;
+}
+.footer .right h4 {
+	font-size: 12px;
+	text-transform: none;
+	color: #606060;
+	text-decoration: none;
+	font-weight: bold;
+	float: left;
+	width: 330px;
+	margin: 10px 5px 0 20px;
+}
+.footer .right .sitios-social {
+	float: left;
+	margin: 10px;
+	width: 320px;
+	height: 160px;
+}
+.footer .right .sitios-social li {
+	float: left;
+	width: 160px;
+	margin:5px 0;
+}
+.footer .right .sitios-social a.icono {
+	background-image: url(../img/botones-social.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	float: left;
+	width: 41px;
+	height: 30px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #666;
+	text-decoration: none;
+	font-size: 13px;
+}
+.footer .mapsite .right .sitios-social li .icono span {
+	padding: 0px;
+	float: left;
+	width: 120px;
+	margin-top: 8px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 45px;
+	text-align:left;
+}
+
+.footer .right .sitios-social a.icono:hover {
+	color: #333;
+	text-decoration: underline;
+}
+
+.footer .right .sitios-social a.icono.group {
+	background-position: right -31px;
+}
+.footer .right .sitios-social a.icono.blog {
+	background-position: right -62px;
+}
+.footer .right .sitios-social a.icono.rss {
+	background-position: right -93px;
+}
+.footer .right .sitios-social a.icono.fb {
+	background-position: right -124px;
+}
+.footer .right .sitios-social a.icono.tw {
+	background-position: right -154px;
+}
+.footer .right .sitios-social a.icono.videos {
+	background-position: right -184px;
+}
+.footer .right .sitios-social a.icono.urban {
+	background-position: right -215px;
+}

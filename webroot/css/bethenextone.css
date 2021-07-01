@@ -1,0 +1,687 @@
+@charset "utf-8";
+/* SKECHERS - BE THE NEXT ONE 2012*/
+
+.btno {
+	width: 960px;
+	position: relative;
+	margin: auto;
+}
+.btno .top {
+	background-image: url(../img/fondo-top.jpg);
+	background-repeat: repeat;
+	background-position: center top;
+	float: left;
+	height: 236px;
+	width: 960px;
+	position: relative;
+}
+
+.btno .top .aviso {
+	display: none;
+}
+.btno .top .aviso .estas {
+}
+.btno .top .aviso .proxima {
+}
+.btno .top .aviso .destino {
+}
+.btno .top .logo {
+    background-image: url("../img/logotipo-a.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 66px;
+    left: -7px;
+    position: absolute;
+    top: 58px;
+    width: 192px;
+    z-index: 900;
+}
+.btno .top .logo a {
+	display: none;
+}
+
+.btno .top .t-inscribete {
+	background-image: url("../img/titulo-inscribete.png");
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 76px;
+	left: 240px;
+	position: absolute;
+	text-indent: -9999px;
+	top: 102px;
+	width: 521px;
+	z-index: 901;
+}
+.btno .top .t-encuentra {
+	background-image: url(../img/titulo-encuentra.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 76px;
+	left: 240px;
+	position: absolute;
+	text-indent: -9999px;
+	top: 102px;
+	width: 521px;
+	z-index: 901;
+}
+.btno .top .t-juega-y-gana {
+	background-image: url(../img/titulo-juega-y-gana.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 76px;
+	left: 240px;
+	position: absolute;
+	text-indent: -9999px;
+	top: 102px;
+	width: 521px;
+	z-index: 901;
+}
+
+.btno .top .ingresar {
+    left: 249px;
+    position: absolute;
+    top: 190px;
+    z-index: 902;
+}
+
+
+
+.btno .top .ingresar a {
+	background-image: url(../img/sprite-btn-ingresa-con-facebook.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 42px;
+	width: 266px;
+	text-indent: -9999px;
+	float: left;
+}
+.btno .top .ingresar a:hover {
+}
+
+.btno .top .bases {
+	position: absolute;
+	z-index: 903;
+	top: 193px;
+	right: 20px;
+}
+.btno .top .bases a {
+	background-image: url(../img/sprite-btn-bases.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 29px;
+	width: 108px;
+}
+.btno .top .bases a:hover {
+}
+
+.btno .top ul.catalogos {
+	position: absolute;
+	right: 147px;
+	top: 191px;
+	z-index: 930;
+}
+.btno .top ul.catalogos li {
+	float: left;
+}
+.btno .top ul.catalogos li a {
+	background-image: url(../img/sprite-btn-mujer.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 36px;
+	width: 110px;
+	text-indent: -9999px;
+}
+.btno .top ul.catalogos li a.mujer {
+	background-image: url(../img/sprite-btn-mujer.png);
+}
+.btno .top ul.catalogos li a.hombre {
+	background-image: url(../img/sprite-btn-hombre.png);
+}
+.btno .top ul.catalogos li a.nino {
+	background-image: url(../img/sprite-btn-nino.png);
+}
+.btno .top ul.catalogos li a.nina {
+	background-image: url(../img/sprite-btn-nina.png);
+}
+.btno .top .busca-en {
+	background-image: url("../img/busca-en-las-categorias.png");
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 35px;
+	left: 240px;
+	position: absolute;
+	top: 186px;
+	width: 128px;
+	z-index: 900;
+}
+.btno .top .busca-en-mas {
+	position: absolute;
+	top: 100px;
+	z-index: 900;
+	right: 30px;
+}
+.btno .top .busca-en-mas a {
+	background-image: url(../img/btn-busca-mas-creditos.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 37px;
+	width: 215px;
+	text-indent: -9999px;
+	float: left;
+}
+
+
+.btno .top .perfil {
+	font-family: 'Arial', Helvetica, sans-serif;
+	width: 180px;
+	position: absolute;
+	z-index: 950;
+	left: 20px;
+	top: 140px;
+}
+.btno .top .btn-juega {
+    left: 237px;
+    position: absolute;
+    top: 186px;
+}
+.btno .top .btn-juega a {
+	background-image: url(../img/sprite-como-juega-aqui-top.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 42px;
+	width: 215px;
+}
+
+.btno .top .perfil .img {
+	background-image: url(../img/loading.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	height: 50px;
+	width: 50px;
+	border: 1px solid #FCE600;
+	background-color: #000;
+}
+.btno .top .perfil .nombre {
+	font-size: 18px;
+	font-weight: 900;
+	color: #FFF;
+	margin-bottom: 2px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+	margin-left: 60px;
+	padding-bottom: 2px;
+}
+.btno .top .perfil .apellido {
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFF;
+	margin-left: 60px;
+	margin-bottom: 3px;
+}
+.btno .top .perfil .creditos {
+	font-size: 12px;
+	color: #FFF;
+	font-weight: normal;
+	background-image: url(../img/icon-flecha-derecha-rosada.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 22px;
+	margin-left: 60px;
+	margin-bottom: 15px;
+	letter-spacing: -1px;
+}
+.btno .top .perfil .cerrar-sesion {
+	font-size: 11px;
+	color: #CCC;
+	text-decoration: none;
+	background-image: url(../img/icon-cerrar-session.png);
+	font-weight: normal;
+	background-repeat: no-repeat;
+	background-position: left center;
+	margin-left: 60px;
+	padding-left: 15px;
+	display: block;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btno .estre {
+	background-image: url(../img/fondo-estre.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 504px;
+	width: 960px;
+	position: relative;
+	float: left;
+}
+
+.btno .estre .logo {
+    background-image: url("../img/logo-ny.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    bottom: 28px;
+    height: 63px;
+    left: 276px;
+    position: absolute;
+    width: 187px;
+    z-index: 900;
+}
+.btno .estre .links {
+}
+.btno .estre .links .e-heather {
+    background-image: url("../img/sprite-heather.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 169px;
+    left: 95px;
+    position: absolute;
+    top: 68px;
+    width: 236px;
+    z-index: 10;
+}
+.btno .estre .links .e-blair {
+    background-image: url("../img/sprite-blair.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 204px;
+    left: 324px;
+    position: absolute;
+    top: 20px;
+    width: 314px;
+    z-index: 10;
+}
+.btno .estre .links .e-brian {
+    background-image: url("../img/sprite-brian.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 203px;
+    left: 127px;
+    position: absolute;
+    top: 233px;
+    width: 203px;
+    z-index: 10;
+}
+.btno .estre .links .e-jessica {
+    background-image: url("../img/sprite-jessica.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 196px;
+    left: 324px;
+    position: absolute;
+    top: 215px;
+    width: 261px;
+    z-index: 10;
+}
+.btno .estre .links .l-prox {
+    background-image: url("../img/sprite-el-proximo.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 204px;
+    left: 578px;
+    position: absolute;
+    top: 137px;
+    width: 263px;
+    z-index: 8;
+}
+.btno .estre .links .l-parti {
+	background-image: url(../img/sprite-premios.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 103px;
+	position: absolute;
+	top: 23px;
+	width: 214px;
+	z-index: 8;
+	right: 30px;
+}
+.btno .estre .links .l-esta {
+	background-image: url(../img/sprite-icon-estaciones.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	height: 57px;
+	position: absolute;
+	top: 10px;
+	width: 126px;
+	z-index: 8;
+	left: 0px;
+}
+.btno .como-part {
+	background-image: url(../img/fondo-como-participar.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 818px;
+	width: 960px;
+	position: relative;
+}
+.btno .como-part .como-flecha {
+	background-image: url(../img/sprite-flech-vertical.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 68px;
+	width: 68px;
+	margin-left: -34px;
+	position: absolute;
+	z-index: 922;
+	left: 50%;
+	top: -30px;
+}
+.btno .como-part .como-ingre {
+    background-image: url("../img/sprite-como-ingresa.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 36px;
+    left: 319px;
+    position: absolute;
+    top: 194px;
+    width: 302px;
+    z-index: 922;
+}
+.btno .como-part .como-juega {
+    background-image: url("../img/sprite-como-juega-aqui.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    height: 42px;
+    left: 373px;
+    position: absolute;
+    top: 709px;
+    width: 215px;
+    z-index: 922;
+}
+.opacidad-lightbox {
+	background-image: url(../img/negro-70.png);
+	background-repeat: repeat;
+	display: none;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 9999;
+}
+.opacidad-lightbox .premios {
+	background-image: url(../img/premios-grafica.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 501px;
+	width: 861px;
+	margin-top: -250px;
+	margin-left: -430px;
+	position: absolute;
+	z-index: 900;
+	left: 50%;
+	top: 50%;
+}
+.opacidad-lightbox .premios a {
+	text-indent: -9999px;
+	float: right;
+	height: 33px;
+	width: 100px;
+	margin-top: -40px;
+	background-image: url(../img/premios-cerrar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+.cauntdaun {
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: 900;
+	color: #12FF00;
+	width: 960px;
+	position: absolute;
+	z-index: 500;
+	left: 0px;
+	top: 3px;
+}
+.cauntdaun p{
+	display: inline;
+	float: left;
+	color: #12FF00;
+	font-weight: 900;
+	}
+	
+.cauntdaun table{
+	padding-top: 16px; padding-left: 50px;
+	}
+.cauntdaun img{
+	float:left; padding-left:4px; padding-right: 4px;
+	}
+.perfil-btn1-usa {
+	background-color: #000;
+	height: 26px;
+	width: 100%;
+	position: relative;
+	/*left: 0px;*/
+	background-image: url(../img/btn1/fondo-perfil.jpg);
+	background-repeat: repeat-x;
+	/*background-position: 0px 0px;*/
+    top: 0;
+    z-index: 9999;
+	font-family: 'Tahoma', Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFF;
+}
+.perfil-btn1-usa .content {
+	margin: auto;
+	width: 960px;
+}
+.perfil-btn1-usa .img {
+	background-color: #636691;
+	float: left;
+	height: 20px;
+	width: 20px;
+	border: 1px solid #333;
+	margin-top: 2px;
+}
+.perfil-btn1-usa .texto {
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+
+.perfil-btn1-usa .texto b {
+	color: #6F0;
+}
+
+.perfil-btn1-usa ul.menu {
+	float: right;
+	height: 26px;
+	/* [disabled]width: 450px; */
+
+}
+.perfil-btn1-usa ul.menu li {
+	float: left;
+}
+.perfil-btn1-usa ul.menu li a {
+	float: left;
+	color: #FFF;
+	height: 19px;
+	padding-top: 7px;
+	padding-right: 10px;
+	padding-left: 42px;
+	/* [disabled]background-color: #999; */
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: 5px center;
+}
+.perfil-btn1-usa ul.menu li a.datos {
+	background-image: url(../img/btn1/icon-persona.png);
+	background-position: 15px;
+}
+.perfil-btn1-usa ul.menu li a.male {
+	background-image: url(../img/btn1/icon-maleta.png);
+	background-position: 10px;
+}
+.perfil-btn1-usa ul.menu li a.premios {
+	background-image: url(../img/btn1/icon-skechers.png);
+}
+.perfil-btn1-usa ul.menu li a:hover, .perfil-btn1-usa ul.menu li a.current {
+	background-color: #000;
+}
+.small {
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	position: relative;
+	float: left;
+	height: 48px;
+	width: 100%;
+	background-image: url(../img-fanlook/fondo-small.jpg);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+}
+.small .logotipo{
+	position: absolute;
+	z-index: 1;
+	left: 0px;
+	top: 0px;
+}
+.small .logotipo a{
+	background-image: url(../img-fanlook/logotipo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 80px;
+	width: 150px;
+}
+.small .hashtag {
+	float: left;
+	height: 48px;
+	width: 355px;
+	background-image: url(../img-fanlook/fondo-hastag.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+
+
+.small ul.menu {
+	float: left;
+	margin-top: 10px;
+}
+.small ul.menu li {
+	float: left;
+	/* [disabled]margin-left: 5px; */
+}
+.small ul.menu li a {
+	float: left;
+	color: #000;
+	text-decoration: none;
+	background-image: url(../img-fanlook/fondo-menu-li.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-align: center;
+	height: 30px;
+	width: 100px;
+	font-weight: 700;
+}
+
+.small ul.menu li a:hover {
+	text-decoration: underline;
+}
+.small ul.menu li a.current {
+	text-decoration: underline;
+}
+.small ul.menu li a.current:hover {
+}
+
+.small .perfil {
+	float: right;
+	margin-top: 2px;
+}
+.small .perfil .entrar {
+	float: right;
+	margin: 10px;
+}
+.small .perfil .entrar a {
+	float: left;
+	background-image: url(../img-fanlook/icon-facebook-header.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-left: 25px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 700;
+	color: #000;
+	text-decoration: none;
+}
+.small .perfil .entrar a:hover {
+	text-decoration: underline;
+}
+
+
+
+.small .perfil .img {
+	float: left;
+	background-color: #FFF;
+	height: 40px;
+	width: 40px;
+	background-image: url(../img-fanlook/loading-16x16.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	border: 1px solid #CCC;
+	margin-right: 10px;
+}
+
+.small .perfil .nombre {
+	float: left;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-top: 10px;
+}
+.small .perfil .salir {
+	float: left;
+	margin-top: 17px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.small .perfil .salir a {
+	float: left;
+	background-image: url(../img-fanlook/icon-salir.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 13px;
+	width: 13px;
+	text-indent: -9999px;
+}
+.zapatillafanlook {
+	position: absolute;
+	z-index: 200;
+	right: -11px;
+	top: 65px;
+	width: 189px;
+	height: 129px;
+	background-image: url(../img-fanlook/btn-agregalas.png);
+	text-indent: -9999px;
+	float: left;
+}
+.zapatillaconcursa {
+	position: absolute;
+	z-index: 200;
+	right: -11px;
+	top: 65px;
+	width: 189px;
+	height: 129px;
+	background-image: url(../img-fanlook/btn-concursa.png);
+	text-indent: -9999px;
+	float: left;
+}
+

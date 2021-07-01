@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS MENUS */
+
+ul.menu {
+	float: left;
+	display: block;
+	width: 163px;
+}
+
+ul.menu li {
+	float: left;
+	*margin-bottom: 10px; /* IE6 e IE7 */
+
+}
+ul.menu li a {
+	float: left;
+	width: 163px;
+	display: block;
+	padding-left: 0px;
+	background-repeat: repeat-x;
+	background-position: center center;
+	padding-right: 0px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 8px;
+	text-decoration: none;
+	background-image: url(../img/admin/bg-boton.png);
+	text-align: center;
+}
+ul.menu li a.current {
+	text-decoration: none;
+	font-weight: 900;
+}
+
+ul.menu li a.current:hover {
+	color: #FFF;
+}
+
+ul.menu li a:hover {
+	text-decoration: underline;
+	color: Blue;
+}
+ul.menu li ul {
+	float: left;
+	width: 163px;
+}
+ul.menu li ul li {
+}
+ul.menu li ul li a.current{
+	background-color: #D0E7B8;
+	color: #666;
+	text-decoration: underline;
+}
+ul.menu li ul li a.current:hover{
+	color: #666;
+}

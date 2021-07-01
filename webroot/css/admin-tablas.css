@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS TABLA */
+
+table.tabla {
+	float: left;
+	width: 680px;
+	font-size: 12px;
+	font-weight: normal;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: middle;
+}
+table.tabla tr, td, th {
+	vertical-align: middle;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	text-align: center;
+}
+table.tabla th {
+	background-image: url(../img/admin/bg-boton.png);
+	background-repeat: repeat-x;
+	background-position: center center;
+	color: #FFFFFF;
+}
+table.tabla tr th a {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.negativo {
+	background-color: #E3FF9F;
+}
+
+.leyenda {
+	color: #666;
+	float: left;
+}
+.leyenda span {
+	width: 20px;
+	height: 16px;
+	border: 1px solid #888;
+	display: block;
+	float: left;
+	margin-right: 5px;
+}
+
+
+.cake-sql-log td {
+	padding: 4px 8px;
+	text-align: left;
+	font-family: Monaco, Consolas, "Courier New", monospaced;
+}
+.cake-sql-log caption {
+	color:#000;
+}
+.cake-sql-log th {
+	background-color: #FF9935;
+	background-image: url(../img/admin/bg-boton.png);
+	background-repeat: repeat-x;
+	background-position: center center;
+	color: #FFF;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #FFF;
+}
+.cake-sql-log tr:hover
+{
+	background-color: #FFAC5D;
+	color: #FFF;
+}

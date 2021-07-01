@@ -1,0 +1,443 @@
+.text-right {
+	text-align: right;
+}
+/***********MENU***********/
+.new-menu .contenedor-buscador .dropdown.search {
+	position: absolute;
+	width: 290px;
+	height: auto;
+	top: 32px;
+	z-index: 100;
+	background-color: #E6E6EE;
+	border: 1px solid #FFFFFF;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	padding: 5px;
+}
+.new-menu .contenedor-buscador .dropdown.search ul {
+	max-height: 400px;
+	overflow: auto;
+}
+.new-menu .contenedor-buscador .dropdown.search ul {
+	width: 100%;
+}
+.new-menu .contenedor-buscador .dropdown.search ul li {
+	width: 260px;
+	border-bottom: 1px solid #E6E6EE;
+	padding: 5px;
+}
+.new-menu .contenedor-buscador .dropdown.search ul li:hover {
+	background-color: #ffffff;
+}
+.new-menu .contenedor-buscador .dropdown.search ul li .cont-imagen {
+	background-color: #ffffff;
+	float: left;
+	width: 75px;
+	height: 75px;
+	border: 1px solid #CCCCCC;
+}
+.new-menu .contenedor-buscador .dropdown.search ul li .cont-texto {
+	float: left;
+	width: 180px;
+	text-decoration: none;
+	color: #555555;
+	font-size: 10px;
+}
+.new-menu .contenedor-buscador .dropdown.search ul li .cont-texto b {
+	color: #666666;
+	font-size: 14px;
+}
+.new-menu .dropmenu ul.tallas li a.disable {
+	color: #777777;
+}
+.new-menu .dropmenu ul.newmenu li a.main.activo {
+	border-bottom: 5px solid #0063BA;
+	color: #0063BA;
+}
+.new-menu .dropmenu ul.newmenu li a.main.escolar:hover, .new-menu .dropmenu ul.newmenu li a.main.escolar.current {
+	border-bottom: 5px solid #f5bf05;
+	color: #f5bf05;
+}
+/***********LISTADO DE PRODUCTOS***********/
+ul.catalogo li .porcentaje-descuento {
+	position: absolute;
+	/*background-color: #ff0000;*/
+	background-image: url("../img/etiqueta_descuento.png");
+	background-repeat: no-repeat;
+	top: 0;
+	right: 7px;
+	color: #FFF;
+	font-weight: bold;
+	padding: 5px 2px 3px 7px;
+	font-size: 14px;
+	text-align: right;
+	width: 37px;
+	height: 22px;
+}
+ul.catalogo li a span.sale, ul.catalogo li a span.escolar, ul.catalogo li a span.new-arrival {
+	width: 40px;
+	height: 40px;
+	background-size: 40px 40px;
+}
+ul.catalogo li .precios {
+	text-align: center;
+}
+ul.catalogo li .precios b {
+	font-size: 12px;
+	position: relative;
+}
+ul.catalogo li .precios s {
+	float: none;
+	position: relative;
+	margin-left: 0;
+	font-size: 12px;
+	display: inline;
+	margin-right: 10px;
+}
+ul.catalogo li .precios b.oferta {
+	color: #FF0000;
+}
+/***********VIEW DETALLE***********/
+.view-detalle .descripciontab {
+	width: 920px;
+	border: 20px solid #E7E6E6;
+	float: left;
+	margin-bottom: 20px;
+}
+.view-detalle .descripciontab .marco {
+	width: 880px;
+	float: left;
+	border: #cbcbcb 1px solid;
+	padding: 20px;
+	text-align: justify;
+	font-size: 14px;
+}
+.view-detalle .descripciontab .marco h4 {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+.view-detalle .descripciontab .marco ul  {
+	margin-left: 15px;
+}
+.view-detalle .descripciontab .marco ul li {
+	list-style-type: disc;
+	margin-bottom: 2px;
+	font-size: 13px;
+}
+.view-detalle .tabdetalle {
+	width: 570px;
+	float: left;
+	margin-top: -28px;
+}
+.view-detalle .tabdetalle li {
+	float: left;
+	height: 28px;
+}
+.view-detalle .tabdetalle li a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #BEBDBD;
+	color: #FFFFFF;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #fff;
+	border-bottom-color: #fff;
+	border-left-color: #BEBDBD;
+	font-weight: 900;
+}
+.view-detalle .tabdetalle li a.current {
+	border-left-style: none;
+	background-color: #E7E6E6;
+	color: #323232;
+}
+.view-detalle .bt-sociales {
+	margin-bottom: 28px;
+}
+.cont-detalle .cuadro .tallas li a {
+	border: 0;
+}
+.cont-detalle .cuadro .tallas li a:hover {
+	background-color: #fff;
+}
+.cont-detalle .cuadro .tallas li a.deshabilitado {
+	cursor: no-drop !important;
+}
+.cont-detalle .detalle .precio.mas-grande b b {
+	font-size: 18px;
+}
+.cont-detalle .detalle .normal.mas-grande {
+	font-size: 15px;
+	/*font-weight: bold;*/
+	opacity: 0.7;
+}
+/***********OUTLET Y PERFORMANCE***********/
+.cont-catalogo .seleccion {
+	float: left;
+	width: 918px;
+	background-color: #E7E6E6;
+	padding: 20px;
+	border: 1px solid #FFF;
+}
+.cont-catalogo .seleccion .menu-outlet {
+	float: left;
+	width: auto;
+}
+.cont-catalogo .seleccion .texto-head-outlet {
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+}
+.cont-catalogo .seleccion .texto-head-outlet span {
+	text-transform: uppercase;
+}
+.cont-catalogo .seleccion .texto-head-outlet span b {
+	color: #163055;
+}
+.cont-catalogo .seleccion .menu-outlet .categoria {
+	float: left; 
+	background: #323232;
+    color: #FFFFFF;
+    text-transform: capitalize;
+	line-height: 36px;
+    padding: 0 15px;
+    text-align: center;
+	margin-right: 20px;
+}
+.cont-catalogo .seleccion .ordenar {
+	color: #474747;
+}
+.cont-catalogo .seleccion .ver-resultado {
+	color: #474747;
+}
+.cont-catalogo .seleccion .ver-resultado b {
+	color: #163055;
+}
+.cont-catalogo .seleccion a.zonas {
+	color: #163055;
+}
+.cont-catalogo .seleccion select.listas {
+	padding: 3px 5px 6px 6px;
+	border: 1px solid #909090;
+	color: #aaa;
+}
+/***********CARRO***********/
+.skechers .cont-carro .carro #alerta-invalido {
+	background-image: url("../img/codigo_invalido2.png");
+	padding: 10px 0px 10px 10px;
+	width: 193px;
+	height: 60px;
+	background-repeat: no-repeat;
+}
+.skechers .cont-carro .carro #alerta-invalido b {
+	color: #820000;
+}
+.skechers .cont-carro .carro .boton-desc .in-desc[readonly] {
+	background-color: #dbdbdb;
+	cursor: no-drop;
+}
+.skechers .cont-carro .contenedor-aviso {
+	float: left;
+	margin: 0 0 25px 0;
+	width: 960px;
+}
+.skechers .cont-carro .contenedor-aviso .info-aviso {
+	float: left;
+	width: 809px;
+	margin-left: 53px;
+	border: 2px solid #00A5CE;
+	padding: 15px 20px 10px 20px;
+	background-color: #EBF7FA;
+	border-radius: 5px;
+	color: #00A5CE;
+	/*font-weight: bold;*/
+	font-size: 14px;
+}
+.skechers .cont-carro .contenedor-aviso .info-aviso b {
+	color: #00A5CE;
+}
+.skechers .cont-carro .contenedor-aviso .info-aviso .info-errorImage {
+	background: url("../img/sprite11.2a-icons.png") no-repeat scroll -7px -218px rgba(0, 0, 0, 0);
+	float: left;
+	height: 25px;
+	width: 20px;
+	margin-right: 10px;
+}
+/***********ALERTAS***********/
+.fancybox-skin {
+	background-color: #EBF7FA;
+}
+.fancybox-inner .alerta-titulo {
+	text-align: left;
+	color: #0085a6;
+	font-weight: bold;
+	font-size: 16px;
+	border-bottom: 1px solid #0085a6;
+	margin-bottom: 15px;
+	background-image: url();
+}
+.fancybox-inner .alerta-titulo .alerta-logo {
+	position: absolute;
+	height: 20px;
+	right: 0;
+	opacity: 0.3;
+}
+.fancybox-inner .alerta-contenido {
+	text-align: center;
+	color: #00A5CE;
+}
+/***********LB PROMOS***********/
+.lb-promo {
+	display: none;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 8000;
+}
+.lb-promo .lb-opacidad {
+	background: #000;
+	position: absolute;
+	z-index: 8000;
+	opacity: 0.5;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.lb-promo .lb-contenido {
+	position: absolute;
+	background-color: #FFF;
+	width: 891px;
+    left: 50%;
+	top: 50%;
+	margin-top: -248px;
+	margin-left: -445px;
+    z-index: 8001;
+	border-radius: 8px;
+}
+.lb-promo .lb-contenido .lb-cerrar {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 5px;
+	right: 5px;
+	color: #aaa;
+	font-weight: bold;
+	font-size: 16px;
+	background-image: url("../img/botones-social.png");
+	background-repeat: no-repeat;
+	background-position: -42px top;
+}
+.lb-promo .lb-contenido .lb-cerrar:hover {
+	background-position: -42px -18px;
+}
+.skechers > .wrapper > h1.titulo-categoria {
+	font-family: helvetica;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+	color: #323232;
+	margin-bottom: -10px;
+}
+
+.menu-outlet > .categoria > .caret {
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid #b3b3b3;
+    content: "";
+    display: inline-block;
+    height: 0;
+    margin-left: 10px;
+    margin-top: 14px;
+    vertical-align: top;
+    width: 0;
+}
+.menu-outlet > .dropdown {
+	background-color: #323232;
+    box-shadow: 2px 7px 7px #000;
+    display: none;
+    position: absolute;
+    z-index: 299;
+	color: #fff;
+	padding: 10px 10px 10px 30px;
+	margin-top: 36px;
+}
+.menu-outlet > .dropdown > ul {
+	width: 150px;
+}
+.menu-outlet > .dropdown > ul > li{
+	float: left;
+    margin: 5px 5px 0 0;
+    width: 150px;
+	font-size: 13px;
+	list-style: none outside none;
+	text-align: left;
+}
+.menu-outlet > .dropdown > ul > li > a{
+	color: #FFF;
+}
+.menu-outlet > .dropdown > ul > li.active > .ordenar-catalogo {
+	text-decoration: underline;
+}
+.contenedor-buscador .dropdown.search {
+    background-color: #e6e6ee;
+    border: 1px solid #ffffff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    height: auto;
+    padding: 5px;
+    position: absolute;
+    top: 32px;
+    width: 290px;
+    z-index: 100;
+}
+.contenedor-buscador .dropdown.search ul {
+    max-height: 400px;
+    overflow: auto;
+}
+.contenedor-buscador .dropdown.search ul {
+    width: 100%;
+}
+.contenedor-buscador .dropdown.search ul li {
+    border-bottom: 1px solid #e6e6ee;
+    padding: 5px;
+    width: 260px;
+}
+.contenedor-buscador .dropdown.search ul li:hover {
+    background-color: #ffffff;
+}
+.contenedor-buscador .dropdown.search ul li .cont-imagen {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    float: left;
+    height: 75px;
+    width: 75px;
+}
+.contenedor-buscador .dropdown.search ul li .cont-texto {
+    color: #555555;
+    float: left;
+    font-size: 10px;
+    text-decoration: none;
+    width: 180px;
+}
+.contenedor-buscador .dropdown.search ul li .cont-texto b {
+    color: #666666;
+    font-size: 14px;
+}
+ul.tallas li a.disable {
+    color: #777777;
+}
+ul.newmenu li a.main.activo {
+    border-bottom: 5px solid #0063ba;
+    color: #0063ba;
+}
+ul.newmenu li a.main.escolar:hover, ul.newmenu li a.main.escolar.current {
+    border-bottom: 5px solid #f5bf05;
+    color: #f5bf05;
+}

@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS EDITAR - AGREGAR */
+
+ul.edit {
+	/* [disabled]width: 650px; */
+	display: block;
+	margin-bottom: 20px;
+	/* [disabled]float: left; */
+}
+ul.edit li {
+	display: block;
+	/* [disabled]width: 630px; */
+	padding: 10px;
+	text-align: left;
+}
+ul.edit li.activo, ul.edit li.activo:hover {
+	background-color: #FFC;
+
+}
+ul.edit li .texto {
+	font-size: 14px;
+	font-weight: normal;
+	width: 300px;
+	float: left;
+	padding-top: 5px;
+	display: block;
+	text-transform: uppercase;
+}
+ul.edit li .texto-descripcion {
+	display: block;
+	font-size: 10px;
+	text-align: left;
+	margin-top: 5px;
+}
+/*
+ul.edit li .error-message:before {
+	content: 'Error: ';
+}
+*/
+.error-message {
+	margin: 5px 0;
+	padding: 5px;
+}
+ul.edit li .ok-message {
+	background-color: #E7F2DB;
+	color: #C46200;
+	margin: 5px 0;
+	padding: 5px;
+}
+
+ul.edit li .input-agregar {
+	position: relative;
+	top: 3px;
+	left: 10px;
+}
+div.paginador {
+	float: left;
+	width: 670px;
+	padding-bottom: 20px;
+	text-align: center;
+	padding-top: 0px;
+}
+div.paginador span {
+	background-color: #D0E7B8;
+	background-image: url(../img/admin/bg-boton.png);
+	background-repeat: repeat-x;
+	background-position: center center;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	margin-left: 5px;
+}
+div.paginador span a {
+	text-decoration: none;
+	color: #999;
+}
+div.paginador a:hover {
+	text-decoration: underline;
+}
+div.paginador span.current {
+	background-color: #FF9935;
+	color: #FFF;
+	text-decoration: none;
+}
+div.previsualizar {
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 660px;
+	float: left;
+	color: #666;
+}
+div.previsualizar ul {
+	float: left;
+	width: 660px;
+	display: block;
+}
+
+div.previsualizar ul li {
+	width: 330px;
+	float: left;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+div.previsualizar ul li.extendido {
+	width: 660px;
+	/*
+	padding-top: 30px;
+	padding-bottom: 30px;
+	*/
+}
+div.previsualizar ul li span {
+	float: left;
+	width: 115px;
+	font-weight: 900;
+	display: block;
+}
+div.previsualizar ul li p {
+	float: left;
+	font-weight: normal;
+	text-align: left;
+	display: block;
+	width: 205px;
+}
+
+div.listado ul li {
+	float: left;
+	width: 290px;
+}
+ul.edit li.radio-descuento label{
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 5px;
+    text-transform: uppercase;
+}
+ul.edit li.radio-descuento input#DescuentoTipoPOR {
+	margin-left: 50px;
+}
+ul.edit li.radio label {
+	margin-right: 20px;
+	font-size: 14px;
+    font-weight: normal;
+    padding-top: 5px;
+    text-transform: uppercase;
+	
+}

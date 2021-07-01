@@ -1,0 +1,138 @@
+@charset "utf-8";
+.cont-catalogo {
+	width: 960px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #FFF;
+	float:left;
+}
+.cont-catalogo .seleccion .ordenar {
+	font-weight: normal;
+	color: #FFF;
+	text-decoration: none;
+	margin: 9px;
+	float: left;
+}
+.cont-catalogo .seleccion label .listas {
+	margin: 7px;
+	float: left;
+}
+
+.cont-catalogo .seleccion .ver-resultado {
+	margin: 9px;
+	float: right;
+	color: #FFF;
+}
+.cont-catalogo ul.catalogo {
+    background-color: #FFFFFF;
+    float: left;
+    padding: 10px 0 0;
+    width: 960px;
+}
+.cont-catalogo ul.catalogo li {
+	float: left;
+	height: 287px;
+	margin: 8px;
+	text-align: center;
+	width: 176px;
+	position: relative;
+}
+.cont-catalogo ul.catalogo li a.loading {
+	background-image: url(../img/ajax-loader.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	width: 176px;
+	height: 138px;
+}
+.cont-catalogo ul.catalogo li a span.sale {
+    background-image: url("../img/sale.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    float: left;
+    height: 52px;
+    left: 10px;
+    margin: 0;
+    position: absolute;
+    top: 90px;
+    width: 56px;
+    z-index: 2;
+}
+.cont-catalogo ul.catalogo li a span.new-arrival {
+    background-image: url("../img/new_arrival.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    float: left;
+    height: 52px;
+    left: 10px;
+    margin: 0;
+    position: absolute;
+    top: 90px;
+    width: 56px;
+    z-index: 2;
+}
+.cont-catalogo ul.catalogo li a span.escolar {
+    background-image: url("../img/escolar.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    float: left;
+    height: 52px;
+    left: 10px;
+    margin: 0;
+    position: absolute;
+    top: 90px;
+    width: 56px;
+    z-index: 2;
+}
+.cont-catalogo ul.catalogo li a.nombre {
+    color: #163055;
+    float: left;
+    font-size: 15px;
+    font-weight: normal;
+    height: auto;
+    margin: 5px 0;
+    text-align: center;
+    text-decoration: underline;
+    width: 176px;
+}
+.cont-catalogo ul.catalogo li span.codigo {
+	float: left;
+	width: 176px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	font-weight: normal;
+	color: #749cb6;
+	text-decoration: none;
+	text-align:center;
+}
+.cont-catalogo .catalogo li .precios {
+	float: left;
+	width: 176px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	text-align:center;
+}
+
+.cont-catalogo ul.catalogo li s{
+	font-size: 12px;
+	color: #a1a4c2;
+	float: right;
+	width: 80px;
+	display: block;
+}
+.cont-catalogo ul.catalogo li span.disponibilidad {
+	float: left;
+	width: 176px;
+	font-size: 10px;
+	color: #aaaaaa;
+	text-decoration: none;
+	text-align:center;
+}

@@ -1,0 +1,50 @@
+@charset "utf-8";
+@import "reset.css";
+
+body {
+    background-color: #090909;
+    overflow: hidden;
+    font-family: Tahoma, sans-serif;
+    font-size: 13px;
+}
+body, html {
+    height: 100%;
+    width: 100%;
+}
+.andain {
+    display: block;
+    margin-top: 60px;
+}
+.andain h1 {
+    background-image: url("../img/admin/andain-home.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 130px;
+    text-indent: -9999px;
+}
+.validacion {
+    text-align: center;
+    margin: 20px 0;
+}
+.validacion span {
+    background-color: #27D133;
+    border: 3px dashed #16891D;
+    padding: 2px 10px;
+    font-weight: bold;
+    color: #102D12;
+}
+.validacion span.error {
+    background-color: #D32121;
+    border: 3px dashed #7A1616;
+    color: #FFF;
+}
+.admin {
+    text-align: center;
+    margin-top: 40px;
+}
+.admin a {
+    color: #FFF;
+    font-variant: small-caps;
+    text-decoration: none;
+}

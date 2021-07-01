@@ -1,0 +1,52 @@
+<table width="100%" border="0" cellspacing="0" style="padding-bottom:15px; height:auto; float:left;">
+	<tr>
+		<td style="width:575px; height:78px; float:left;">
+			<img alt="" src="http://store.skechers-chile.cl/img/mailing/mailing_catss_despacho.png">
+		</td>
+	</tr>
+	<tr style="background-color:#FFF; float:left; width:auto; padding:10px 25px; background-image:url('http://store.skechers-chile.cl/img/mailing/borde-fondo.jpg'); background-position:right bottom; background-repeat:no-repeat; height:140px;">
+		<td colspan="1" style="width:auto; float:left; margin-bottom:15px;">
+			<p style="color:#000; font-weight:bold; margin:0 0 10px 0; float:left; width:auto; font-size:15px;">Estimado(a) <?= (isset($compra['Usuario']['nombre']) && $compra['Usuario']['nombre']) ? $compra['Usuario']['nombre']:''; ?>,</p>
+			<p style="color:#333333; float:left; margin:10px 0 0 0; width:520px; font-size:14px;">
+				Le informamos que con fecha <?= (isset($compra['Compra']['fecha_enviado']) && $compra['Compra']['fecha_enviado']) ? date('d-m-Y', strtotime($compra['Compra']['fecha_enviado'])):''; ?> han sido despachados a 
+				<? if (isset($compra['Compra']['rural']) && $compra['Compra']['rural'] == 1 ) : ?>
+				<b><?= (isset($compra['Compra']['direccion_rural']) && $compra['Compra']['direccion_rural']) ? utf8_decode($compra['Compra']['direccion_rural']):''; ?></b>
+				<? else : ?>
+				<b>
+					<?
+					if (isset($compra['Despacho']['Direccion']['calle']))
+					{
+						echo utf8_decode($compra['Despacho']['Direccion']['calle']);
+						if (isset($compra['Despacho']['Direccion']['numero']) && $compra['Despacho']['Direccion']['numero'])
+							echo ' #' . $compra['Despacho']['Direccion']['numero'];
+						if (isset($compra['Despacho']['Direccion']['depto']) && $compra['Despacho']['Direccion']['depto'])
+							echo ' ' . $compra['Despacho']['Direccion']['depto'];
+						if (isset($compra['Despacho']['Direccion']['Comuna']['nombre']) && $compra['Despacho']['Direccion']['Comuna']['nombre'])
+							echo ', ' . $compra['Despacho']['Direccion']['Comuna']['nombre'];
+						if (isset($compra['Despacho']['Direccion']['Region']['nombre']) && $compra['Despacho']['Direccion']['Region']['nombre'])
+							echo ' - ' . $compra['Despacho']['Direccion']['Region']['nombre'];
+					}
+					?>
+				</b>
+				<? endif; ?>
+				el/los productos por usted adquiridos.
+			</p>
+		</td>
+	</tr>
+	<tr style="width:auto; float:left; background-color:#FFF; padding:10px 25px 25px;">
+		<td colspan="1" style="width:auto; float:left;">
+			<p style="color:#333333; font-weight:bold; font-size:15px; margin:0 0 10px;">
+				En caso que quisiera hacer seguimiento de su orden, puede ingresar al siguiente sitio Web:
+			</p>
+			<p style="color:#333333; float:left; width:520px; margin:0 0 5px;">
+				<a href="http://www.chilexpress.cl/" style="font-weight:bold;">www.chilexpress.cl</a>
+			</p>
+			<p style="color:#333333; font-weight:bold; font-size:15px; margin:0 0 10px;">
+				Ingresando el codigo de seguimiento que estara disponible dentro de 24 horas:
+			</p>
+			<p style="color:#333333; float:left; width:520px; margin:0 0 5px;">
+				<b style="font-weight:bold;"><?= (isset($compra['Compra']['cod_despacho']) && $compra['Compra']['cod_despacho']) ? $compra['Compra']['cod_despacho']:''; ?></b>
+			</p>
+		</td>
+	</tr>
+</table>

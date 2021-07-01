@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mercadopago/dx-php": "1.9.0",
+        "transbank/transbank-sdk": "^1.8"
+    }
+}

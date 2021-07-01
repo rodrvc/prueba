@@ -1,0 +1,19 @@
+#config/core.php
+#config/database.php
+#sitio2.rar
+archivos/
+#API Project-23acac3b9957.p12
+#API Project-6818de595c4d.p12
+#Servidor-8daadf66d3ff.p12
+#webroot/index.php
+#app_controller.php
+#app_model.php
+#tmp/
+#webroot/boletas_skechers/
+webroot/img/Galeria/*
+webroot/img/Producto/*
+!webroot/img/Galeria/.gitkeep
+!webroot/img/Producto/.gitkeep
+views/elements/demo_new.sql
+webroot/img/Producto_MV/Falabella.rar
+webroot/img/Producto_MV/Producto_MV.zip

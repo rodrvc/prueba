@@ -1,0 +1,74 @@
+@charset "UTF-8";
+.opacidad {
+	background-image: url(../img/negro-70.png);
+	background-repeat: repeat;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 500;
+	left: 0px;
+	top: 0px;
+	display: none;
+}
+.opacidad .video {
+	background-color: #333;
+	width: 600px;
+	height: 400px;
+	margin-top: -200px;
+	margin-left: -275px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
+.opacidad .video .g-map {
+	width: 600px;
+	height: 400px;
+}
+.opacidad .video .cerrar {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 40px;
+	color: #FFF;
+	text-decoration: none;
+	position: absolute;
+	z-index: 501;
+	top: -40px;
+	right: -25px;
+}
+
+body#body-pagos {
+	margin: 0px;
+	padding: 0px;
+	background-color: #f4fcff;
+	background-image: url(../img/bg-header.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	height: 100%;
+	width: 100%;
+	font-weight: normal;
+}
+
+body#body-pagos .contenedor {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+body#body-pagos .contenedor .contenido {
+	width: 500px;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+}
+
+body#body-pagos .contenedor .contenido .texto {
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 60px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}

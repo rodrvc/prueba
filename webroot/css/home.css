@@ -1,0 +1,76 @@
+.slider-home {
+	float: left;
+	width: 960px;
+	height: 430px;
+}
+.destacadas {
+	float: left;
+	width: 960px;
+	margin: 10px 0 5px 0;
+}
+.destacadas a.des-one {
+    float: left;
+    margin: 3px;
+    text-decoration: none;
+    width: 314px;
+}
+.destacadas .fb-ske {
+	float: left;
+	margin: 3px;
+	text-decoration: none;
+	width: 294px;
+	background-image: url(../img/caluga-right.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 151px;
+	padding: 10px;
+}
+.destacadas .fb-ske .fondo-sk {
+	background-image: url(../img/mini-ske.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+	width: 90px;
+	height: 126px;
+	margin-top: 25px;
+}
+.destacadas .fb-ske h3.titu-ske {
+    color: #3557C1;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 25px;
+    text-align: left;
+    width: 190px;
+}
+.destacadas .fb-ske h3.titu-ske a {
+    color: #3557C1;
+    font-size: 13px;
+    font-weight: bold;
+	text-decoration: none;
+}
+.destacadas .fb-ske p.txt-ske {
+	color: #808080;
+	float: left;
+	font-size: 12px;
+	margin-left: 10px;
+	height: 85px;
+	text-decoration: none;
+	width: 190px;
+	overflow: hidden;
+}
+.destacadas .fb-ske p.txt-ske a {
+	color: #808080;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.bg-top-contenedor h3  {
+	margin: 10px 0 0 10px;
+	float: left;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 13px;
+}

@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS BOTONES */
+div.botones {
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+div.botones a {
+	padding-right: 15px;
+	padding-left: 15px;
+	display: block;
+	float: right;
+	background-image: url(../img/admin/bg-boton.png);
+	background-repeat: repeat-x;
+	background-position: center center;
+	text-transform: capitalize;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+	font-weight: normal;
+	margin-left: 10px;
+}
+div.botones span {
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+span.guardar {
+	background-image: url(../img/iconos/save_16.png);
+}
+span.editar {
+	background-image: url(../img/iconos/pencil_16.png);
+}
+span.crear {
+	background-image: url(../img/iconos/pencil_16.png);
+}
+span.generar {
+	background-image: url(../img/iconos/gear_16.png);
+}
+
+
+span.cancelar {
+	background-image: url(../img/iconos/block_16.png);
+}
+span.previsualizar {
+	background-image: url(../img/iconos/document_16.png);
+}
+span.entrar {
+	background-image: url(../img/iconos/key_16.png);
+}
+span.volver {
+	background-image: url(../img/iconos/left_16.png);
+}
+span.aceptar {
+	background-image: url(../img/iconos/tick_16.png);
+}
+span.buscar{
+	background-image: url(../img/iconos/search_16.png);
+}
+span.bloquear {
+	background-image: url(../img/iconos/block_16.png);
+}
+span.borrar {
+	background-image: url(../img/iconos/delete_16.png);
+}
+span.mas {
+	background-image: url(../img/iconos/plus_16.png);
+}
+span.imprimir {
+	background-image: url(../img/iconos/print_16.png);
+}
+span.pdf {
+	background-image: url(../img/iconos/pdf_16.png);
+}
+span.reload {
+	background-image: url(../img/iconos/reload_16.png);
+}

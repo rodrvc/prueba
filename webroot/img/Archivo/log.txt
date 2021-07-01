@@ -1,0 +1,3495 @@
+=== inicio 10-05-2021 15:44:48
+= registros: 396
+1- 1 - foto USA NO ENCONTRADA
+2- 2 - foto USA NO ENCONTRADA
+3- 3 - foto USA NO ENCONTRADA
+4- 4 - foto USA NO ENCONTRADA
+5- 5 - foto USA NO ENCONTRADA
+6- 6 - foto USA NO ENCONTRADA
+7- 7 - foto USA NO ENCONTRADA
+8- 8 - foto USA NO ENCONTRADA
+9- 9 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P200NZALCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA reiniciada
+   *** foto galeria USA ENCONTRADA SM-P200NZALCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\8
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P200NZALCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\9
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P200NZALCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\10
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+10- 10 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EE-UC10JUWEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EE-UC10JUWEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\11
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EE-UC10JUWEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\12
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+11- 11 - foto USA NO ENCONTRADA
+12- 12 - foto USA NO ENCONTRADA
+13- 13 - foto USA NO ENCONTRADA
+14- 14 - foto USA NO ENCONTRADA
+15- 15 - foto USA NO ENCONTRADA
+16- 16 - foto USA NO ENCONTRADA
+17- 17 - foto USA NO ENCONTRADA
+18- 18 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-TA845XBEGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA845XBEGCH-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\13
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA845XBEGCH-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\14
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA845XBEGCH-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\15
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+19- 19 - foto USA NO ENCONTRADA
+20- 20 - foto USA NO ENCONTRADA
+21- 21 - foto USA NO ENCONTRADA
+22- 22 - foto USA NO ENCONTRADA
+23- 23 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A025MZBFCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A025MZBFCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\16
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZBFCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\17
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZBFCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\18
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+24- 24 - foto USA NO ENCONTRADA
+25- 25 - foto USA NO ENCONTRADA
+26- 26 - foto USA NO ENCONTRADA
+27- 27 - foto USA NO ENCONTRADA
+28- 28 - foto USA NO ENCONTRADA
+29- 29 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N985FZKKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-N985FZKKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\19
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N985FZKKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\20
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N985FZKKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\21
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+30- 30 - foto USA NO ENCONTRADA
+31- 31 - foto USA NO ENCONTRADA
+32- 32 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A025MZRECHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A025MZRECHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\22
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZRECHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\23
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZRECHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\24
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+33- 33 - foto USA NO ENCONTRADA
+34- 34 - foto USA NO ENCONTRADA
+35- 35 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A315GZKKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A315GZKKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\25
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A315GZKKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\26
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A315GZKKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\27
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+36- 36 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N770FZRJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-N770FZRJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\28
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZRJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\29
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZRJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\30
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-N770FZRJCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\31
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZRJCHO-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\32
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+37- 37 - foto USA NO ENCONTRADA
+38- 38 - foto USA NO ENCONTRADA
+39- 39 - foto USA NO ENCONTRADA
+40- 40 - foto USA NO ENCONTRADA
+41- 41 - foto USA NO ENCONTRADA
+42- 42 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-G780FZOJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-G780FZOJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\33
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZOJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\34
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZOJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\35
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+43- 43 - foto USA NO ENCONTRADA
+44- 44 - foto USA NO ENCONTRADA
+45- 45 - foto USA NO ENCONTRADA
+46- 46 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N985FZNKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-N985FZNKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\36
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N985FZNKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\37
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N985FZNKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\38
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+47- 47 - foto USA NO ENCONTRADA
+48- 48 - foto USA NO ENCONTRADA
+49- 49 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A725MLVDLTL-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A725MLVDLTL-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\39
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A725MLVDLTL-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\40
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A725MLVDLTL-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\41
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+50- 50 - foto USA NO ENCONTRADA
+51- 51 - foto USA NO ENCONTRADA
+52- 52 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T500NZAACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-T500NZAACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\42
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T500NZAACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\43
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+53- 53 - foto USA NO ENCONTRADA
+54- 54 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R810NZKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R810NZKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\44
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R810NZKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\45
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R810NZKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\46
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R810NZKACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\47
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+55- 55 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EF-PG998TBEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EF-PG998TBEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\48
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+56- 56 - foto USA NO ENCONTRADA
+57- 57 - foto USA NO ENCONTRADA
+58- 58 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T500NZAECHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-T500NZAECHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\49
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T500NZAECHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\50
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+59- 59 - foto USA NO ENCONTRADA
+60- 60 - foto USA NO ENCONTRADA
+61- 61 - foto USA NO ENCONTRADA
+62- 62 - foto USA NO ENCONTRADA
+63- 63 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EF-PG998TJEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EF-PG998TJEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\51
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+64- 64 - foto USA NO ENCONTRADA
+65- 65 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R500NZKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R500NZKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\52
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\53
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\54
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZKACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\55
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+66- 66 - foto USA NO ENCONTRADA
+67- 67 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A217MZBKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A217MZBKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\56
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A217MZBKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\57
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A217MZBKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\58
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+68- 68 - foto USA NO ENCONTRADA
+69- 69 - foto USA NO ENCONTRADA
+70- 70 - foto USA NO ENCONTRADA
+71- 71 - foto USA NO ENCONTRADA
+72- 72 - foto USA NO ENCONTRADA
+73- 73 - foto USA NO ENCONTRADA
+74- 74 - foto USA NO ENCONTRADA
+75- 75 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P200NZKLCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P200NZKLCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\59
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P200NZKLCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\60
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P200NZKLCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\61
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P200NZKLCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\62
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+76- 76 - foto USA NO ENCONTRADA
+77- 77 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R830NSKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R830NSKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\63
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\64
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\65
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSKACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\66
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+78- 78 - foto USA NO ENCONTRADA
+79- 79 - foto USA NO ENCONTRADA
+80- 80 - foto USA NO ENCONTRADA
+81- 81 - foto USA NO ENCONTRADA
+82- 82 - foto USA NO ENCONTRADA
+83- 83 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-IC100BBEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EO-IC100BBEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\67
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-IC100BBEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\68
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-IC100BBEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\69
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-IC100BBEGWW-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\70
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+84- 84 - foto USA NO ENCONTRADA
+85- 85 - foto USA NO ENCONTRADA
+86- 86 - foto USA NO ENCONTRADA
+87- 87 - foto USA NO ENCONTRADA
+88- 88 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A725MZBDLTL-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A725MZBDLTL-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\71
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A725MZBDLTL-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\72
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A725MZBDLTL-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\73
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+89- 89 - foto USA NO ENCONTRADA
+90- 90 - foto USA NO ENCONTRADA
+91- 91 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A725MZKDLTL-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A725MZKDLTL-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\74
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A725MZKDLTL-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\75
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A725MZKDLTL-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\76
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+92- 92 - foto USA NO ENCONTRADA
+93- 93 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A325MZBKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A325MZBKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\77
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A325MZBKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\78
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A325MZBKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\79
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+94- 94 - foto USA NO ENCONTRADA
+95- 95 - foto USA NO ENCONTRADA
+96- 96 - foto USA NO ENCONTRADA
+97- 97 - foto USA NO ENCONTRADA
+98- 98 - foto USA NO ENCONTRADA
+99- 99 - foto USA NO ENCONTRADA
+100- 100 - foto USA NO ENCONTRADA
+101- 101 - foto USA NO ENCONTRADA
+102- 102 - foto USA NO ENCONTRADA
+103- 103 - foto USA NO ENCONTRADA
+104- 104 - foto USA NO ENCONTRADA
+105- 105 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R500NZDACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R500NZDACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\80
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZDACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\81
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZDACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\82
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZDACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\83
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+106- 106 - foto USA NO ENCONTRADA
+107- 107 - foto USA NO ENCONTRADA
+108- 108 - foto USA NO ENCONTRADA
+109- 109 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P615NZAUCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P615NZAUCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\84
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P615NZAUCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\85
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P615NZAUCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\86
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P615NZAUCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\87
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+110- 110 - foto USA NO ENCONTRADA
+111- 111 - foto USA NO ENCONTRADA
+112- 112 - foto USA NO ENCONTRADA
+113- 113 - foto USA NO ENCONTRADA
+114- 114 - foto USA NO ENCONTRADA
+115- 115 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-G780FZBJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-G780FZBJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\88
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZBJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\89
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZBJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\90
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+116- 116 - foto USA NO ENCONTRADA
+117- 117 - foto USA NO ENCONTRADA
+118- 118 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P610NZIUCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P610NZIUCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\91
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P610NZIUCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\92
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P610NZIUCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\93
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P610NZIUCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\94
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+119- 119 - foto USA NO ENCONTRADA
+120- 120 - foto USA NO ENCONTRADA
+121- 121 - foto USA NO ENCONTRADA
+122- 122 - foto USA NO ENCONTRADA
+123- 123 - foto USA NO ENCONTRADA
+124- 124 - foto USA NO ENCONTRADA
+125- 125 - foto USA NO ENCONTRADA
+126- 126 - foto USA NO ENCONTRADA
+127- 127 - foto USA NO ENCONTRADA
+128- 128 - foto USA NO ENCONTRADA
+129- 129 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-TA800XWEGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EP-TA800XWEGCH-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\95
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EP-TA800XWEGCH-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\96
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA800XWEGCH-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\97
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+130- 130 - foto USA NO ENCONTRADA
+131- 131 - foto USA NO ENCONTRADA
+132- 132 - foto USA NO ENCONTRADA
+133- 133 - foto USA NO ENCONTRADA
+134- 134 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N770FZKJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-N770FZKJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\98
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZKJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\99
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZKJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\100
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-N770FZKJCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\101
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZKJCHO-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\102
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+135- 135 - foto USA NO ENCONTRADA
+136- 136 - foto USA NO ENCONTRADA
+137- 137 - foto USA NO ENCONTRADA
+138- 138 - foto USA NO ENCONTRADA
+139- 139 - foto USA NO ENCONTRADA
+140- 140 - foto USA NO ENCONTRADA
+141- 141 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R175NZWALTA-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R175NZWALTA-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\103
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R175NZWALTA-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\104
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R175NZWALTA-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\105
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R175NZWALTA-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\106
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R175NZWALTA-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\107
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+142- 142 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A217MZKKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A217MZKKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\108
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A217MZKKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\109
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A217MZKKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\110
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+143- 143 - foto USA NO ENCONTRADA
+144- 144 - foto USA NO ENCONTRADA
+145- 145 - foto USA NO ENCONTRADA
+146- 146 - foto USA NO ENCONTRADA
+147- 147 - foto USA NO ENCONTRADA
+148- 148 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P205NZALCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P205NZALCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\111
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P205NZALCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\112
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P205NZALCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\113
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+149- 149 - foto USA NO ENCONTRADA
+150- 150 - foto USA NO ENCONTRADA
+151- 151 - foto USA NO ENCONTRADA
+152- 152 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-G780FZRJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-G780FZRJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\114
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZRJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\115
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZRJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\116
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+153- 153 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R810NZDACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R810NZDACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\117
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R810NZDACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\118
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R810NZDACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\119
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R810NZDACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\120
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+154- 154 - foto USA NO ENCONTRADA
+155- 155 - foto USA NO ENCONTRADA
+156- 156 - foto USA NO ENCONTRADA
+157- 157 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-HS1303GEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303GEGWW-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\121
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303GEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\122
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-HS1303GEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\123
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+158- 158 - foto USA NO ENCONTRADA
+159- 159 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A515FZKJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A515FZKJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\124
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A515FZKJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\125
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A515FZKJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\126
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-A515FZKJCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\127
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+160- 160 - foto USA NO ENCONTRADA
+161- 161 - foto USA NO ENCONTRADA
+162- 162 - foto USA NO ENCONTRADA
+163- 163 - foto USA NO ENCONTRADA
+164- 164 - foto USA NO ENCONTRADA
+165- 165 - foto USA NO ENCONTRADA
+166- 166 - foto USA NO ENCONTRADA
+167- 167 - foto USA NO ENCONTRADA
+168- 168 - foto USA NO ENCONTRADA
+169- 169 - foto USA NO ENCONTRADA
+170- 170 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-DA705BBEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-DA705BBEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\128
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+171- 171 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-TA845XWEGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA845XWEGCH-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\129
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EP-TA845XWEGCH-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\130
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA845XWEGCH-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\131
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+172- 172 - foto USA NO ENCONTRADA
+173- 173 - foto USA NO ENCONTRADA
+174- 174 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N985FZWKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-N985FZWKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\132
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N985FZWKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\133
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N985FZWKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\134
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+175- 175 - foto USA NO ENCONTRADA
+176- 176 - foto USA NO ENCONTRADA
+177- 177 - foto USA NO ENCONTRADA
+178- 178 - foto USA NO ENCONTRADA
+179- 179 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T290NZKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-T290NZKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\135
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T290NZKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\136
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T290NZKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\137
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+180- 180 - foto USA NO ENCONTRADA
+181- 181 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P205NZKLCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P205NZKLCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\138
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P205NZKLCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\139
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P205NZKLCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\140
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P205NZKLCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\141
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+182- 182 - foto USA NO ENCONTRADA
+183- 183 - foto USA NO ENCONTRADA
+184- 184 - foto USA NO ENCONTRADA
+185- 185 - foto USA NO ENCONTRADA
+186- 186 - foto USA NO ENCONTRADA
+187- 187 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-TA20EWSCGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA20EWSCGCH-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\142
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA20EWSCGCH-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\143
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA20EWSCGCH-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\144
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+188- 188 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R180NZNALTA-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R180NZNALTA-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\145
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R180NZNALTA-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\146
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R180NZNALTA-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\147
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R180NZNALTA-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\148
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R180NZNALTA-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\149
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+189- 189 - foto USA NO ENCONTRADA
+190- 190 - foto USA NO ENCONTRADA
+191- 191 - foto USA NO ENCONTRADA
+192- 192 - foto USA NO ENCONTRADA
+193- 193 - foto USA NO ENCONTRADA
+194- 194 - foto USA NO ENCONTRADA
+195- 195 - foto USA NO ENCONTRADA
+196- 196 - foto USA NO ENCONTRADA
+197- 197 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P610NZAUCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P610NZAUCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\150
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P610NZAUCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\151
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P610NZAUCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\152
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P610NZAUCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\153
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+198- 198 - foto USA NO ENCONTRADA
+199- 199 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-TA20EWSUGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA20EWSUGCH-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\154
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EP-TA20EWSUGCH-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\155
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-TA20EWSUGCH-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\156
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+200- 200 - foto USA NO ENCONTRADA
+201- 201 - foto USA NO ENCONTRADA
+202- 202 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T290NZSACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-T290NZSACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\157
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T290NZSACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\158
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T290NZSACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\159
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+203- 203 - foto USA NO ENCONTRADA
+204- 204 - foto USA NO ENCONTRADA
+205- 205 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A515FZBJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A515FZBJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\160
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A515FZBJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\161
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A515FZBJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\162
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-A515FZBJCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\163
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+206- 206 - foto USA NO ENCONTRADA
+207- 207 - foto USA NO ENCONTRADA
+208- 208 - foto USA NO ENCONTRADA
+209- 209 - foto USA NO ENCONTRADA
+210- 210 - foto USA NO ENCONTRADA
+211- 211 - foto USA NO ENCONTRADA
+212- 212 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-P610NZBUCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-P610NZBUCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\164
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-P610NZBUCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\165
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-P610NZBUCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\166
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+213- 213 - foto USA NO ENCONTRADA
+214- 214 - foto USA NO ENCONTRADA
+215- 215 - foto USA NO ENCONTRADA
+216- 216 - foto USA NO ENCONTRADA
+217- 217 - foto USA NO ENCONTRADA
+218- 218 - foto USA NO ENCONTRADA
+219- 219 - foto USA NO ENCONTRADA
+220- 220 - foto USA NO ENCONTRADA
+221- 221 - foto USA NO ENCONTRADA
+222- 222 - foto USA NO ENCONTRADA
+223- 223 - foto USA NO ENCONTRADA
+224- 224 - foto USA NO ENCONTRADA
+225- 225 - foto USA NO ENCONTRADA
+226- 226 - foto USA NO ENCONTRADA
+227- 227 - foto USA NO ENCONTRADA
+228- 228 - foto USA NO ENCONTRADA
+229- 229 - foto USA NO ENCONTRADA
+230- 230 - foto USA NO ENCONTRADA
+231- 231 - foto USA NO ENCONTRADA
+232- 232 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R830NSSACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R830NSSACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\167
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSSACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\168
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSSACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\169
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSSACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\170
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+233- 233 - foto USA NO ENCONTRADA
+234- 234 - foto USA NO ENCONTRADA
+235- 235 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-EG920BBEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EO-EG920BBEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\171
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-EG920BBEGWW-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\172
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-EG920BBEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\173
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-EG920BBEGWW-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\174
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+236- 236 - foto USA NO ENCONTRADA
+237- 237 - foto USA NO ENCONTRADA
+238- 238 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A315GZBKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A315GZBKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\175
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A315GZBKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\176
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A315GZBKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\177
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+239- 239 - foto USA NO ENCONTRADA
+240- 240 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T500NZDECHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-T500NZDECHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\178
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T500NZDECHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\179
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+241- 241 - foto USA NO ENCONTRADA
+242- 242 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A025MZBECHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A025MZBECHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\180
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZBECHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\181
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZBECHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\182
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+243- 243 - foto USA NO ENCONTRADA
+244- 244 - foto USA NO ENCONTRADA
+245- 245 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N770FZSJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-N770FZSJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\183
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZSJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\184
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N770FZSJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\185
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-N770FZSJCHO-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\186
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+246- 246 - foto USA NO ENCONTRADA
+247- 247 - foto USA NO ENCONTRADA
+248- 248 - foto USA NO ENCONTRADA
+249- 249 - foto USA NO ENCONTRADA
+250- 250 - foto USA NO ENCONTRADA
+251- 251 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R500NZGACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R500NZGACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\187
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZGACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\188
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZGACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\189
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+252- 252 - foto USA NO ENCONTRADA
+253- 253 - foto USA NO ENCONTRADA
+254- 254 - foto USA NO ENCONTRADA
+255- 255 - foto USA NO ENCONTRADA
+256- 256 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R820NZKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R820NZKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\190
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R820NZKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\191
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R820NZKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\192
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R820NZKACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\193
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+257- 257 - foto USA NO ENCONTRADA
+258- 258 - foto USA NO ENCONTRADA
+259- 259 - foto USA NO ENCONTRADA
+260- 260 - foto USA NO ENCONTRADA
+261- 261 - foto USA NO ENCONTRADA
+262- 262 - foto USA NO ENCONTRADA
+263- 263 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-G780FZGJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-G780FZGJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\194
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZGJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\195
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZGJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\196
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+264- 264 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-HS1303BEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303BEGWW-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\197
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303BEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\198
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-HS1303BEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\199
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+265- 265 - foto USA NO ENCONTRADA
+266- 266 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R175NZKALTA-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R175NZKALTA-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\200
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R175NZKALTA-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\201
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R175NZKALTA-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\202
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R175NZKALTA-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\203
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R175NZKALTA-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\204
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+267- 267 - foto USA NO ENCONTRADA
+268- 268 - foto USA NO ENCONTRADA
+269- 269 - foto USA NO ENCONTRADA
+270- 270 - foto USA NO ENCONTRADA
+271- 271 - foto USA NO ENCONTRADA
+272- 272 - foto USA NO ENCONTRADA
+273- 273 - foto USA NO ENCONTRADA
+274- 274 - foto USA NO ENCONTRADA
+275- 275 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-HS1303LEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303LEGWW-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\205
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303LEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\206
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-HS1303LEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\207
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+276- 276 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R840NZKALTA-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R840NZKALTA-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\208
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R840NZKALTA-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\209
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R840NZKALTA-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\210
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R840NZKALTA-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\211
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+277- 277 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T295NZKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-T295NZKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\212
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T295NZKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\213
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T295NZKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\214
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+278- 278 - foto USA NO ENCONTRADA
+279- 279 - foto USA NO ENCONTRADA
+280- 280 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A315GZRKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A315GZRKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\215
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A315GZRKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\216
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A315GZRKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\217
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+281- 281 - foto USA NO ENCONTRADA
+282- 282 - foto USA NO ENCONTRADA
+283- 283 - foto USA NO ENCONTRADA
+284- 284 - foto USA NO ENCONTRADA
+285- 285 - foto USA NO ENCONTRADA
+286- 286 - foto USA NO ENCONTRADA
+287- 287 - foto USA NO ENCONTRADA
+288- 288 - foto USA NO ENCONTRADA
+289- 289 - foto USA NO ENCONTRADA
+290- 290 - foto USA NO ENCONTRADA
+291- 291 - foto USA NO ENCONTRADA
+292- 292 - foto USA NO ENCONTRADA
+293- 293 - foto USA NO ENCONTRADA
+294- 294 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R175NZRALTA-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R175NZRALTA-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\218
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R175NZRALTA-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\219
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R175NZRALTA-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\220
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R175NZRALTA-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\221
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R175NZRALTA-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\222
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+295- 295 - foto USA NO ENCONTRADA
+296- 296 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-P3105TBEGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-P3105TBEGCH-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\223
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EP-P3105TBEGCH-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\224
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+297- 297 - foto USA NO ENCONTRADA
+298- 298 - foto USA NO ENCONTRADA
+299- 299 - foto USA NO ENCONTRADA
+300- 300 - foto USA NO ENCONTRADA
+301- 301 - foto USA NO ENCONTRADA
+302- 302 - foto USA NO ENCONTRADA
+303- 303 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A217MZRKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A217MZRKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\225
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A217MZRKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\226
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A217MZRKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\227
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+304- 304 - foto USA NO ENCONTRADA
+305- 305 - foto USA NO ENCONTRADA
+306- 306 - foto USA NO ENCONTRADA
+307- 307 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R830NSDACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R830NSDACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\228
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSDACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\229
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSDACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\230
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NSDACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\231
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+308- 308 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-G780FLVJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-G780FLVJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\232
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FLVJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\233
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FLVJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\234
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+309- 309 - foto USA NO ENCONTRADA
+310- 310 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A025MZKECHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A025MZKECHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\235
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZKECHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\236
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZKECHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\237
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+311- 311 - foto USA NO ENCONTRADA
+312- 312 - foto USA NO ENCONTRADA
+313- 313 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A325MZKKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A325MZKKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\238
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A325MZKKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\239
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A325MZKKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\240
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+314- 314 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EP-N3300TBEGCH-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EP-N3300TBEGCH-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\241
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EP-N3300TBEGCH-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\242
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EP-N3300TBEGCH-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\243
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+315- 315 - foto USA NO ENCONTRADA
+316- 316 - foto USA NO ENCONTRADA
+317- 317 - foto USA NO ENCONTRADA
+318- 318 - foto USA NO ENCONTRADA
+319- 319 - foto USA NO ENCONTRADA
+320- 320 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R850NZDALTA-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R850NZDALTA-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\244
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R850NZDALTA-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\245
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R850NZDALTA-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\246
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R850NZDALTA-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\247
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R850NZDALTA-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\248
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-R850NZDALTA-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\249
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+321- 321 - foto USA NO ENCONTRADA
+322- 322 - foto USA NO ENCONTRADA
+323- 323 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EF-PG996TBEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EF-PG996TBEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\250
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+324- 324 - foto USA NO ENCONTRADA
+325- 325 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-HS1303WEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EO-HS1303WEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\251
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303WEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\252
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-HS1303WEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\253
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+326- 326 - foto USA NO ENCONTRADA
+327- 327 - foto USA NO ENCONTRADA
+328- 328 - foto USA NO ENCONTRADA
+329- 329 - foto USA NO ENCONTRADA
+330- 330 - foto USA NO ENCONTRADA
+331- 331 - foto USA NO ENCONTRADA
+332- 332 - foto USA NO ENCONTRADA
+333- 333 - foto USA NO ENCONTRADA
+334- 334 - foto USA NO ENCONTRADA
+335- 335 - foto USA NO ENCONTRADA
+336- 336 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-N980FZNKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-N980FZNKCHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\254
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-N980FZNKCHO-7.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\255
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-N980FZNKCHO-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\256
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+337- 337 - foto USA NO ENCONTRADA
+338- 338 - foto USA NO ENCONTRADA
+339- 339 - foto USA NO ENCONTRADA
+340- 340 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A025MZKFCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A025MZKFCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\257
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZKFCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\258
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A025MZKFCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\259
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+341- 341 - foto USA NO ENCONTRADA
+342- 342 - foto USA NO ENCONTRADA
+343- 343 - foto USA NO ENCONTRADA
+344- 344 - foto USA NO ENCONTRADA
+345- 345 - foto USA NO ENCONTRADA
+346- 346 - foto USA NO ENCONTRADA
+347- 347 - foto USA NO ENCONTRADA
+348- 348 - foto USA NO ENCONTRADA
+349- 349 - foto USA NO ENCONTRADA
+350- 350 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A325MLVKCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A325MLVKCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\260
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A325MLVKCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\261
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A325MLVKCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\262
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+351- 351 - foto USA NO ENCONTRADA
+352- 352 - foto USA NO ENCONTRADA
+353- 353 - foto USA NO ENCONTRADA
+354- 354 - foto USA NO ENCONTRADA
+355- 355 - foto USA NO ENCONTRADA
+356- 356 - foto USA NO ENCONTRADA
+357- 357 - foto USA NO ENCONTRADA
+358- 358 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T295NZSACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-T295NZSACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\263
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T295NZSACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\264
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T295NZSACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\265
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+359- 359 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-EG920BLEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-EG920BLEGWW-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\266
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-EG920BLEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\267
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-EG920BLEGWW-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\268
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+360- 360 - foto USA NO ENCONTRADA
+361- 361 - foto USA NO ENCONTRADA
+362- 362 - foto USA NO ENCONTRADA
+363- 363 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-HS1303PEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EO-HS1303PEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\269
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-HS1303PEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\270
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-HS1303PEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\271
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+364- 364 - foto USA NO ENCONTRADA
+365- 365 - foto USA NO ENCONTRADA
+366- 366 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T500NZSECHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-T500NZSECHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\272
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T500NZSECHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\273
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+367- 367 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-G780FZWJCHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-G780FZWJCHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\274
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZWJCHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\275
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-G780FZWJCHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\276
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+368- 368 - foto USA NO ENCONTRADA
+369- 369 - foto USA NO ENCONTRADA
+370- 370 - foto USA NO ENCONTRADA
+371- 371 - foto USA NO ENCONTRADA
+372- 372 - foto USA NO ENCONTRADA
+373- 373 - foto USA NO ENCONTRADA
+374- 374 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A525MZKGLTL-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A525MZKGLTL-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\277
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A525MZKGLTL-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\278
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A525MZKGLTL-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\279
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+375- 375 - foto USA NO ENCONTRADA
+376- 376 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=EO-IC100BWEGWW-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA EO-IC100BWEGWW-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\280
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-IC100BWEGWW-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\281
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA EO-IC100BWEGWW-6.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\282
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA EO-IC100BWEGWW-8.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\283
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+==========
+
+377- 377 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-T500NZDACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   ------ foto galeria USA NO ENCONTRADA
+   *** foto galeria USA ENCONTRADA SM-T500NZDACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\284
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-T500NZDACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\285
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+378- 378 - foto USA NO ENCONTRADA
+379- 379 - foto USA NO ENCONTRADA
+380- 380 - foto USA NO ENCONTRADA
+381- 381 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A525MZBGLTL-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A525MZBGLTL-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\286
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A525MZBGLTL-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\287
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A525MZBGLTL-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\288
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+382- 382 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R500NZSACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R500NZSACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\289
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZSACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\290
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZSACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\291
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R500NZSACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\292
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+383- 383 - foto USA NO ENCONTRADA
+384- 384 - foto USA NO ENCONTRADA
+385- 385 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-R830NZKACHO-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-R830NZKACHO-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\293
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NZKACHO-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\294
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NZKACHO-4.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\295
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-R830NZKACHO-5.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\296
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+386- 386 - foto USA NO ENCONTRADA
+387- 387 - foto USA NO ENCONTRADA
+388- 388 - foto USA NO ENCONTRADA
+389- 389 - foto USA NO ENCONTRADA
+390- 390 - foto USA NO ENCONTRADA
+391- 391 - foto USA NO ENCONTRADA
+392- 392 - foto USA NO ENCONTRADA
+393- 393 - foto USA ENCONTRADA http://localhost/resize/resize.php?w=full&foto=SM-A525MLVGLTL-1.png
+  *** limpieza de repositorio
+  +++ path SI
+  +++ full SI
+  +++ ith SI
+  +++ mini SI
+   ****** GALERIA
+   *** foto galeria USA ENCONTRADA SM-A525MLVGLTL-2.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\297
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   *** foto galeria USA ENCONTRADA SM-A525MLVGLTL-3.png
+   *** repositorio creado D:\xampp\htdocs\tecno\webroot\img\Galeria\298
+   +++ path SI
+   +++ full SI
+   +++ ith SI
+   +++ mini SI
+
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+   ------ foto galeria USA NO ENCONTRADA
+==========
+
+394- 394 - foto USA NO ENCONTRADA
+395- 395 - foto USA NO ENCONTRADA
+396- 396 - foto USA NO ENCONTRADA
+fin

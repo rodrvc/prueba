@@ -1,0 +1,844 @@
+@charset "utf-8";
+.wrapper {
+	margin: 0px;
+	width: 960px;
+}
+a.otros    {
+	color: #38566f;
+	font-size: 12px;
+	text-decoration: underline;
+	width: 240px;
+	float: left;
+	text-align: left;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	display: block;
+}
+a.otros.perfil {
+	display: block;
+
+}
+
+.stars         {
+	float: left;
+	width: 83px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 93px;
+	background-image: url(../img/stars.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 15px;
+	text-indent: -9999px;
+}
+.seleccion  {
+	background-color: #0494bd;
+	background-repeat: repeat-x;
+	height: auto;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-rightright-radius: 10px;
+	float: left;
+	width: 960px;
+}
+.seleccion .titulo-seccion {
+	background-image: url(../img/caminar-titulo.png);
+	float: left;
+	height: 53px;
+	width: 171px;
+	margin: 5px;
+}
+.divisor  {
+	background-color: #999;
+	height: 1px;
+	width: 950px;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 25px;
+	float: left;
+}
+.divisor h2  {
+	font-size: 12px;
+	font-weight: 900;
+	color: #999999;
+	background-color: #FFF;
+	text-align: left;
+	position: absolute;
+	left: 0px;
+	top: -15px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 35px;
+}
+span.nombres {
+	color: #575757;
+	float: left;
+	font-size: 13px;
+	margin: 5px 0;
+	padding: 0;
+	text-align: left;
+	text-decoration: none;
+	width: 300px;
+}
+span.nombres.perfil-reg {
+	width: 235px;
+	margin: 5px 15px;
+}
+span.nombres.perfil-reg.dos {
+    margin: 5px 15px 5px 0;
+    text-align: left;
+    width: 130px;
+}
+
+span.nombres.mini {
+	width: 120px;
+}
+
+span.nombres.dos {
+    float: left;
+    text-align: right;
+    text-decoration: none;
+    width: 55px;
+}
+span.nombres.tres {
+	text-align: right;
+	width: 25px;
+}
+
+span.asterico {
+    color: #333333;
+    float: left;
+    font-size: 11px;
+    margin: 5px 0 0 31px;
+    text-align: left;
+    width: 240px;
+}
+b.azul  {
+	float: left;
+	width: 176px;
+	margin-top: 0px;
+	margin-right: 2px;
+	margin-bottom: 0px;
+	margin-left: 2px;
+	color: #163055;
+}
+
+b.oferta   {
+    color: #D50000;
+    float: none;
+    text-align: center;
+}
+
+b.oferta.mini {
+	color: #D70000;
+	/* [disabled]width: 50px; */
+	margin-top: 0px;
+	margin-right: 2px;
+	margin-bottom: 0px;
+	margin-left: 2px;
+	font-size: 12px;
+	float:left;
+}
+.bg-top-contenedor {
+	background-image: url(../img/titulo-bg.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 0px;
+	float: left;
+	height: 32px;
+	width: 960px;
+}
+
+.boton {
+	float: left;
+}
+.boton.home {
+	padding: 5px 33px;
+}
+
+.boton a {
+    background-image: url("../img/sprite-bts.png");
+    background-repeat: no-repeat;
+    float: left;
+    font-size: 13px;
+    font-weight: normal;
+    height: 23px;
+    padding-left: 35px;
+    text-decoration: none;
+}
+.boton a span {
+	background-image: url("../img/sprite-bts.png");
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	float: right;
+	height: 18px;
+	margin-right: -5px;
+	padding-right: 30px;
+	padding-top: 5px;
+}
+.boton a span:hover {
+	text-decoration: underline;
+}
+
+
+.boton a.rojo {
+	background-position: left top;
+}
+
+.boton a.rojo span {
+	background-position: right top;
+}
+
+.boton a.rojo span:hover {
+	background-position: right -24px;
+	/* [disabled]text-decoration: underline; */
+}
+
+.boton a.rojo:hover {
+	background-position: left -24px;
+}
+.boton a.rojo:hover span {
+	background-position: right -24px;
+}
+.boton a.naranja {
+	background-position: left -48px;
+}
+
+.boton a.naranja span {
+	background-position: right -48px;
+}
+
+.boton a.naranja span:hover {
+	background-position: right -72px;
+}
+
+.boton a.naranja:hover {
+	background-position: left -72px;
+}
+.boton a.naranja:hover span {
+	background-position: right -72px;
+}
+
+.boton a.sold-out {
+	background-image: url("../img/sprite-bts4.png");
+	background-position: left top;
+	width: 85px;
+	color: #FFFFFF;
+	padding-left: 20px;
+	margin-top: 0px;
+	padding-top: 5px;
+	height: 18px;
+}
+
+.boton a.sold-out:hover {
+	background-position: right -24px;
+	text-decoration: underline;
+}
+
+.boton a.coming-soon {
+	background-image: url("../img/sprite-bts3.png");
+	background-position: left top;
+	width: 96px;
+	color: #FFFFFF;
+	padding-left: 9px;
+	margin-top: 0px;
+	padding-top: 5px;
+	height: 18px;
+}
+
+.boton a.coming-soon:hover {
+	background-position: right -24px;
+	text-decoration: underline;
+}
+
+/* ==== */
+
+.boton a.new-arrival {
+	background-image: url("../img/boton_new.png");
+	background-position: left top;
+	padding-left: 32px;
+}
+
+.boton a.new-arrival span {
+	background-image: url("../img/boton_new.png");
+	background-position: right top;
+	width: 53px;
+	font-size: 12px;
+}
+
+.boton a.new-arrival span:hover {
+	background-position: right -24px;
+}
+
+.boton a.new-arrival:hover {
+	background-position: left -24px;
+}
+.boton a.new-arrival:hover span {
+	background-position: right -24px;
+}
+/* ==== */
+
+.boton .rojo p.ico-carr {
+	background-image: url(../img/carrito-compra.png);
+	float: left;
+	height: 16px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 4px 0 0;
+	width: 98px;
+	color: #FFF;
+	text-decoration: none;
+}
+.boton .rojo p.ico-carr:hover {
+	text-decoration: underline;
+}
+
+a.resultados {
+	background-image: url(../img/botones.png);
+	background-repeat: no-repeat;
+	background-position: left -193px;
+	height: 19px;
+	float: left;
+	padding-left: 15px;
+	font-size: 13px;
+	color: #FFF;
+	text-decoration: none;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 7px;
+}
+a.resultados span {
+    background-image: url("../img/botones.png");
+    background-position: right -193px;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    float: right;
+    height: 16px;
+    margin-right: -5px;
+    padding-right: 15px;
+    padding-top: 3px;
+}
+a.resultados:hover {
+	background-position: left -212px;
+}
+a.resultados span:hover {
+    background-position: right -212px;
+
+}
+a.resultados-dos  {
+	background-image: url(../img/botones.png);
+	background-repeat: no-repeat;
+	background-position: left -232px;
+	height: 19px;
+	float: left;
+	padding-left: 15px;
+	font-size: 13px;
+	color: #FFF;
+	text-decoration: none;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 7px;
+}
+a.resultados-dos span  {
+	background-image: url("../img/botones.png");
+	background-position: right -232px;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	float: right;
+	height: 16px;
+	margin-right: -5px;
+	padding-right: 20px;
+	padding-top: 3px;
+}
+a.resultados-dos:hover {
+	background-position: left -251px;
+}
+a.resultados-dos span:hover {
+    background-position: right -251px;
+}
+.boton.dos {
+    float: left;
+    margin: 10px 0 10px 15px;
+    position: relative;
+}
+.boton.dos.derec {
+	float: right;
+}
+.boton.dos.derec.mar {
+	float: right;
+	margin-right: 40px;
+}
+
+.boton.dos.centro {
+    float: left;
+    margin: 10px 180px;
+}
+.boton.dos.centrado {
+    float: left;
+    margin: 10px 0 10px 390px;
+    position: relative;
+}
+
+.boton.dos.margen {
+	float: left;
+	margin: 7px;
+}
+.boton.dos.alineado {
+    margin-left: 70px;
+}
+.boton.dos.dentro {
+    bottom: 20px;
+    left: 110px;
+    position: absolute;
+	margin-left:15px;
+}
+.boton.dos.dentrodos {
+	bottom: 60px;
+	left: 20px;
+	position: absolute;
+}
+.boton.dos.medio {
+	margin: 30px;
+}
+.boton.dos.medio.sin {
+	margin: 0 30px;
+}
+.boton.dos a {
+	background-image: url(../img/botones.png);
+	background-repeat: no-repeat;
+	float: left;
+	font-size: 13px;
+	font-weight: normal;
+	padding-left: 42px;
+	text-decoration: none;
+	color: #FFF;
+}
+.boton.dos a span {
+	background-image: url("../img/botones.png");
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	float: right;
+	margin-right: -5px;
+	padding-right: 35px;
+	padding-top: 5px;
+}
+.boton.dos a span:hover {
+	/* [disabled]text-decoration: underline; */
+}
+
+.boton.dos a.degradado-cel{
+	background-position: left -148px;
+	height: 22px !important;
+	color: #FFF;
+	font-weight: normal;
+	padding-left: 30px;
+	font-size:12px;
+}
+
+.boton.dos a.degradado-cel:hover {
+	background-position: left -170px;
+}
+
+.boton.dos a.degradado-cel span:hover {
+	background-position: right -170px;
+}
+
+.boton.dos a.degradado-cel span {
+	background-position: right -148px;
+	height: 17px !important;
+	color: #FFF;
+	font-weight: normal;
+}
+.boton.dos a.azul{
+	background-position: left top !important;
+	height: 30px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.azul:hover {
+	background-position: left -30px !important;
+}
+
+.boton.dos a.azul span:hover {
+	background-position: right -30px !important;
+}
+
+.boton.dos a.azul span {
+	background-position: right top !important;
+	color: #FFFFFF;
+	height: 22px;
+	padding-top: 8px;
+	font-weight: normal;
+}
+
+
+.boton.dos a.buscar-azul{
+	background-position: left -691px !important;
+	height: 30px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.buscar-azul:hover {
+	background-position: left -722px !important;
+}
+
+.boton.dos a.buscar-azul span:hover {
+	background-position: right -722px !important;
+}
+
+.boton.dos a.buscar-azul span {
+	background-position: right -691px !important;
+	color: #FFFFFF;
+	height: 22px;
+	padding-top: 8px;
+	font-weight: normal;
+}
+
+
+
+.boton.dos a.guarda{
+    background-position: left -558px !important;
+    color: #FFFFFF;
+    font-weight: normal;
+    height: 25px;
+}
+
+.boton.dos a.guarda:hover {
+	background-position: left -583px !important;
+}
+
+.boton.dos a.guarda span:hover {
+	background-position: right -583px !important;
+}
+
+.boton.dos a.guarda span {
+    background-position: right -558px !important;
+    color: #FFFFFF;
+    font-weight: normal;
+    height: 19px;
+    padding-top: 5px;
+}
+
+.boton.dos a.celeste{
+	background-position: left -193px !important;
+	height: 19px;
+	color: #FFF;
+	font-weight: normal;
+	padding-left: 30px;
+}
+
+.boton.dos a.celeste:hover {
+	background-position: left -212px !important;
+}
+
+.boton.dos a.celeste span:hover {
+	background-position: right -212px !important;
+}
+
+.boton.dos a.celeste span {
+	background-position: right -193px !important;
+	color: #FFFFFF;
+	height: 16px;
+	padding-top: 3px;
+	font-weight: normal;
+}
+
+.boton.dos a.naranjo{
+	background-position: left -61px !important;
+	height: 40px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.naranjo:hover {
+	background-position: left -104px !important;
+}
+
+.boton.dos a.naranjo span:hover {
+	background-position: right -104px !important;
+}
+
+.boton.dos a.naranjo span {
+	background-position: right -61px !important;
+	color: #FFFFFF;
+	height: 26px;
+	padding-top: 14px;
+	font-weight: normal;
+}
+
+.boton.dos a.naranjodos{
+	background-position: left -608px !important;
+	height: 41px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.naranjodos:hover {
+	background-position: left -650px !important;
+}
+
+.boton.dos a.naranjodos span:hover {
+	background-position: right -650px !important;
+}
+
+.boton.dos a.naranjodos span {
+	background-position: right -608px !important;
+	color: #FFFFFF;
+	height: 27px;
+	padding-top: 14px;
+	font-weight: normal;
+}
+.boton.dos a.volver{
+	background-position: left -341px !important;
+	height: 22px;
+	color: #FFF;
+	font-weight: normal;
+	padding-left: 30px;
+}
+
+.boton.dos a.volver:hover {
+	background-position: left -364px !important;
+}
+
+.boton.dos a.volver span:hover {
+	background-position: right -364px !important;
+}
+
+.boton.dos a.volver span {
+	background-position: right -341px !important;
+	color: #FFFFFF;
+	height: 19px;
+	padding-top: 3px;
+	font-weight: normal;
+}
+.boton.dos a.descuento{
+	background-position: left -390px !important;
+	height: 22px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.descuento:hover {
+	background-position: left -415px !important;
+}
+
+.boton.dos a.descuento span:hover {
+	background-position: right -415px !important;
+}
+
+.boton.dos a.descuento span {
+	background-position: right -390px !important;
+	color: #FFFFFF;
+	font-weight: normal;
+	padding-right:15px;
+	height: 17px;
+    padding-top: 5px;
+}
+
+.boton.dos a.gris{
+	background-position: left -440px !important;
+	height: 29px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.gris:hover {
+	background-position: left -469px !important;
+}
+
+.boton.dos a.gris span:hover {
+	background-position: right -469px !important;
+}
+
+.boton.dos a.gris span {
+	background-position: right -440px !important;
+	color: #FFFFFF;
+	font-weight: normal;
+	height: 22px;
+    padding-top: 7px;
+}
+
+.boton.dos a.orange{
+	background-position: left -499px !important;
+	height: 29px;
+	color: #FFF;
+	font-weight: normal;
+}
+
+.boton.dos a.orange:hover {
+	background-position: left -528px !important;
+}
+
+.boton.dos a.orange span:hover {
+	background-position: right -528px !important;
+}
+
+.boton.dos a.orange span {
+	background-position: right -499px !important;
+	color: #FFFFFF;
+	font-weight: normal;
+	height: 22px;
+    padding-top: 7px;
+}
+
+.boton dos a.orange:hover span {
+	background-position: right -499px !important;
+}
+
+.boton.dos span.icono1{
+	position: absolute;
+	background-image: url(../img/carrito-mas.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	left: 5px;
+	top: 6px;
+	height: 20px;
+	width: 28px;
+}
+.boton.dos span.icono1.dos{
+	background-image: url(../img/carritobig.png);
+}
+.boton.dos .azul span.lupita {
+	background-image: url(../img/lupita-blanca.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 17px;
+	width: 15px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.boton.dos .azul span.lupita {
+	background-image: url(../img/lupita-blanca.png);
+	float: left;
+	height: 17px;
+	width: 15px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+.skechers .boton-desc {
+	background-image: url(../img/ingreso-cupon.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+	height: 25px;
+	width: 239px;
+	margin-bottom:10px;
+}
+.skechers .boton-desc .ingrese {
+    color: #FFFFFF;
+    float: left;
+    font-size: 13px;
+    margin: 7px 3px 0 36px;
+}
+
+.skechers .boton-desc .in-desc {
+    float: left;
+    font-size: 11px;
+    height: 10px;
+    margin-top: 6px;
+    width: 65px;
+}
+.skechers .boton-desc a.bt-ir {
+    background-image: url("../img/bt-ingreso-codigo-sprite.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    float: right;
+    height: 17px;
+    margin: 6px 5px 0 0;
+    width: 18px;
+}
+.skechers .boton-desc a.bt-ir:hover {
+	background-position: left -17px;
+}
+.skechers .boton-desc a.bt-ir.bien {
+	background-position: left -34px;
+}
+.skechers .boton-desc a.bt-ir.mal {
+	background-position: left bottom;
+}
+/* ALERTAS DIRECCION */
+#DireccionAddForm .creacuenta .alerta {
+	position: absolute;
+	float: left;
+	display: none;
+	background-image: url(../img/globo.png);
+	color: #5C2558;
+	margin-top: 10px;
+	padding-top: 20px; 
+	padding-left: 15px;
+	width: 275px;
+	height: 20px;
+}
+
+#DireccionAddForm .creacuenta .alerta2 {
+	position: absolute;
+	float: left;
+	display: none;
+	background-image: url(../img/globo2.png);
+	color: #5C2558;
+	margin-top: 10px;
+	padding-top: 20px; 
+	padding-left: 15px;
+	width: 275px;
+	height: 20px;
+}
+
+#DireccionAddForm .creacuenta #calle {
+	margin-left: 210px;
+}
+
+#DireccionAddForm .creacuenta #region {
+	margin-left: -295px;
+}
+
+#DireccionAddForm .creacuenta #comuna {
+	margin-left: 185px;
+}
+
+#DireccionAddForm .creacuenta #celular {
+	margin-left: 110px;
+}
+
+#DireccionAddForm .creacuenta #numero {
+	margin-left: -295px;
+}
+
+#DireccionAddForm .creacuenta #telefono {
+	margin-left: -295px;
+}
+
+#DireccionAddForm .creacuenta #nombre {
+	margin-top: 29px;
+	margin-left: -295px;
+}
+
+#alerta-invalido.aviso-invalidcod {
+	position: absolute;
+	float: left;
+	z-index: 9999;
+	margin-top: -55px; margin-left: 100px;
+	display: none;
+	background-image: url(../img/codigo_invalido.png);
+	width: 203px;
+	height: 80px;
+}

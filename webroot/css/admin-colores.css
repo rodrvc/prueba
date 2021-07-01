@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+body {
+	background-color: #00BFEC;
+}
+a:link {
+	color: #333;
+}
+h1.titulo {
+	color: #002966;
+	border-bottom: 1px solid #888;
+}
+h2.subtitulo {
+	color: #666;
+	border-bottom: 1px solid #888;
+}
+h2.usuario {
+	color: #002966;
+}
+
+input.clase-input {
+	color: #222;
+	border: 1px solid #888;
+}
+select.clase-input {
+	border: 1px solid #888;
+	color: #222;
+	background-color: #F2F2F2;
+}
+textarea.clase-input {
+	border: 1px solid #888;
+	color: #222;
+	background-color: #F2F2F2;
+}
+
+table.tabla a {
+	color: #333;
+}
+table.tabla th {
+	background-color: #0083C7;
+	border-right: 1px solid #AAA;
+}
+table.tabla tr:hover {
+	background-color: #EEE;
+}
+table.tabla td {
+	color: #002966;
+	border-bottom: 1px solid #EEE;
+}
+
+div.col02 {
+	border-left: 1px solid #AAA;
+}
+
+ul.menu li a {
+	color: #333333;
+	background-color: #008DCB;
+}
+ul.menu li a:hover {
+	color: #999;
+}
+ul.menu li ul li a {
+	background-color: #AAE7F9;
+}
+ul.menu li a.current {
+	background-color: #008DCB;
+}
+
+b.salir {
+	color: #FFF;
+}
+
+ul.edit li .texto {
+	color: #666;
+}
+ul.edit li .texto-descripcion {
+	color: #666;
+}
+ul.edit li {
+	border-bottom: 1px solid #DDD;
+}
+ul.edit li:hover {
+	background-color: #EEE;
+}
+.error-message {
+	background-color: #999;
+	color: #FFF;
+}
+
+div.botones a {
+	background-color: #000;
+	color: #FFF;
+}
+div.botones a:hover {
+	color: #DDD;
+	background-color: #222;
+}
+
+div.previsualizar {
+	background-color: #EEE;
+}
+div.previsualizar ul li {
+	border-bottom: 1px solid #DDD
+}
+
+ul.tab li.current a {
+	color: #002966;
+}
+
+div#flashMessage {
+	background: #666 url('../img/admin/bg-boton.png') center center repeat-x;
+	color: #FFF;
+}

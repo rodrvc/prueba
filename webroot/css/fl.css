@@ -1,0 +1,1347 @@
+body {
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	background-attachment: fixed;
+	/*background-size:100%;*/
+}
+body.landing {
+	background-image: url(../img-fanlook/Fondo_NY_3.jpg);
+	background-repeat: repeat-x;
+	background-position: center -200px;
+	background-color: #FFF;
+}
+body.detalle {
+	background-image: url(../img-fanlook/Fondo_NY_5.jpg);
+	background-repeat: repeat-x;
+	background-position: center -200px;
+	overflow: hidden;
+}
+body.detalle.ganador {
+	overflow: auto !important;
+}
+body.premios {
+	background-image: url(../img-fanlook/fondo-landing.jpg);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+}
+body.ganadores {
+	background-image: url(../img-fanlook/fondo-landing.jpg);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+}
+body.galeria {
+	background-image: url(../img-fanlook/fondo-landing.jpg);
+	background-repeat: repeat-x;
+}
+body.video {
+	background-image: url(../img-fanlook/fondo-landing.jpg);
+	background-repeat: repeat-x;
+}
+
+
+
+
+
+
+body, html {
+	height: 100%;
+	width: 100%;
+}
+.fl {
+}
+a:link {
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.header {
+	float: left;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	-webkit-box-shadow: 0px 2px 2px 0px #ccc;
+	box-shadow: 0px 2px 2px 0px #ccc;
+	min-width: 1100px;
+	height: auto;
+	z-index: 500;
+}
+.header .flecha {
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	bottom: -15px;
+	/* [disabled]margin-left: -5px; */
+}
+
+.header .flecha a {
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 25px;
+	width: 25px;
+	float: left;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	bottom: 0px;
+	margin-left: -12.5px;
+}
+
+.header .flecha a.down {
+	background-image: url(../img-fanlook/icon-flecha-down.png);
+}
+
+
+.header .flecha a.up {
+	background-image: url(../img-fanlook/icon-flecha-up.png);
+}
+
+.header .box {
+	position: relative;
+	background-image: url(../img-fanlook/fondo-small.jpg);
+	background-position: center bottom;
+	float: left;
+	height: auto;
+	width: 100%;
+	background-color: #FFF;
+	background-repeat: repeat-x;
+}
+
+.header .box.fondo {
+	background-position: center -125px;
+}
+.header .small {
+	position: relative;
+	float: left;
+	height: 48px;
+	width: 100%;
+}
+.header .small .logotipo{
+	position: absolute;
+	z-index: 1;
+	left: 0px;
+	top: 0px;
+}
+.header .small .logotipo a{
+	background-image: url(../img-fanlook/logotipo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 80px;
+	width: 150px;
+}
+.header .small .hashtag {
+	float: left;
+	height: 48px;
+	width: 355px;
+	background-image: url(../img-fanlook/fondo-hastag.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+
+
+.header .small ul.menu {
+	float: left;
+	margin-top: 10px;
+}
+.header .small ul.menu li {
+	float: left;
+	/* [disabled]margin-left: 5px; */
+}
+.header .small ul.menu li a {
+	float: left;
+	color: #000;
+	text-decoration: none;
+	background-image: url(../img-fanlook/fondo-menu-li.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-align: center;
+	height: 30px;
+	width: 100px;
+	font-weight: 700;
+}
+
+.header .small ul.menu li a:hover {
+	text-decoration: underline;
+}
+.header .small ul.menu li a.current {
+	text-decoration: underline;
+}
+.header .small ul.menu li a.current:hover {
+}
+
+.header .small .perfil {
+	float: right;
+	margin-top: 2px;
+}
+.header .small .perfil .entrar {
+	float: right;
+	margin: 10px;
+}
+.header .small .perfil .entrar a {
+	float: left;
+	background-image: url(../img-fanlook/icon-facebook-header.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-left: 25px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 700;
+	color: #000;
+	text-decoration: none;
+}
+.header .small .perfil .entrar a:hover {
+	text-decoration: underline;
+}
+
+
+
+.header .small .perfil .img {
+	float: left;
+	background-color: #FFF;
+	height: 40px;
+	width: 40px;
+	background-image: url(../img-fanlook/loading-16x16.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	border: 1px solid #CCC;
+	margin-right: 10px;
+}
+
+.header .small .perfil .nombre {
+	float: left;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-top: 10px;
+}
+.header .small .perfil .salir {
+	float: left;
+	margin-top: 17px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.header .small .perfil .salir a {
+	float: left;
+	background-image: url(../img-fanlook/icon-salir.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 13px;
+	width: 13px;
+	text-indent: -9999px;
+}
+
+.header .xl {
+	position: relative;
+	width: 960px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+	overflow: hidden;
+	display: none;
+}
+
+.header .xl .logotipo {
+	position: absolute;
+	z-index: 1;
+	left: 162px;
+	top: 6px;
+}
+.header .xl .logotipo a {
+	background-image: url(../img-fanlook/logotipo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 80px;
+	width: 150px;
+}
+.header .xl .hashtag {
+	height: 128px;
+	width: 606px;
+	background-image: url(../img-fanlook/fondo-hastag-xl.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+.header .xl .llamado {
+	height: 32px;
+	width: 494px;
+	background-image: url(../img-fanlook/header-llamado.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	margin-top: -10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.header .xl ul.menu {
+	float: left;
+	margin-top: 10px;
+}
+.header .xl ul.menu li {
+	float: left;
+	/* [disabled]margin-left: 5px; */
+	margin-right: 15px;
+}
+.header .xl ul.menu li a {
+	float: left;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	font-weight: 700;
+}
+
+.header .xl ul.menu li a:hover {
+	text-decoration: underline;
+}
+.header .xl ul.menu li a.current {
+	text-decoration: underline;
+}
+.header .xl ul.menu li a.current:hover {
+}
+.header .xl .perfil .entrar {
+	float: right;
+	margin: 10px;
+}
+.header .xl .perfil .entrar a {
+	float: left;
+	background-image: url(../img-fanlook/icon-facebook-header.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-left: 25px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 700;
+	color: #000;
+	text-decoration: none;
+}
+.header .xl .perfil .entrar a:hover {
+	text-decoration: underline;
+}
+
+
+.header .xl .perfil {
+	float: right;
+	margin-top: 2px;
+}
+.header .xl .perfil .img {
+	float: left;
+	background-color: #FFF;
+	height: 40px;
+	width: 40px;
+	background-image: url(../img-fanlook/loading-16x16.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	border: 1px solid #CCC;
+	margin-right: 10px;
+}
+.header .xl .perfil .nombre {
+	float: left;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-top: 10px;
+}
+.header .xl .perfil .salir {
+	float: left;
+	margin-top: 17px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.header .xl .perfil .salir a {
+	float: left;
+	background-image: url(../img-fanlook/icon-salir.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 13px;
+	width: 13px;
+	text-indent: -9999px;
+}
+
+.footer {
+	float: left;
+	width: 100%;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #000;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	background-color: #FFF;
+	z-index: 500;
+}
+.footer .box {
+	position: relative;
+	float: left;
+	height: 90px;
+	width: 960px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: -150px;
+}
+.footer .centro {
+	width: 960px;
+	overflow: hidden;
+	margin-right: auto;
+	margin-left: auto;
+}
+.footer .flecha {
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	margin-left: -12.5px;
+	top: 10px;
+}
+.footer .flecha a {
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 25px;
+	width: 25px;
+	float: left;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	bottom: 0px;
+	margin-left: -12.5px;
+}
+.footer .flecha a.down {
+	background-image: url(../img-fanlook/icon-flecha-down.png);
+}
+.footer .flecha a.up {
+	background-image: url(../img-fanlook/icon-flecha-up.png);
+}
+
+.footer .logotipo {
+	float: left;
+}
+.footer .logotipo a {
+	background-image: url(../img-fanlook/sprite-footer.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 38px;
+	width: 118px;
+}
+.footer .logotipo a:hover {
+	background-position: 0px -38px;
+}
+.footer .mapsite {
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.redes {
+	float: left;
+	margin-right: 35px;
+	margin-left: 35px;
+}
+.redes ul {
+	float: left;
+}
+.redes ul li {
+	float: left;
+	margin-right: 10px;
+}
+.redes ul li a {
+	float: left;
+	height: 36px;
+	width: 36px;
+	background-image: url(../img-fanlook/sprite-footer.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px -76px;
+	text-indent: -9999px;
+}
+.redes ul li a:hover {
+	background-position: 0px -112px;
+}
+
+.redes ul li a.facebook {
+	height: 35px;
+	width: 36px;
+
+}
+.redes ul li a.facebook:hover {
+	background-position: 0px -111px;
+}
+.redes ul li a.twitter {
+	background-position: -44px -76px;
+	height: 35px;
+	width: 35px;
+}
+.redes ul li a.twitter:hover {
+	background-position: -44px -111px;
+}
+.redes ul li a.youtube {
+	background-position: -86px -76px;
+}
+
+.redes ul li a.youtube:hover {
+	background-position: -86px -111px;
+}
+.redes ul li a.pinterest {
+	background-position: -130px -75px;
+	/* [disabled]height: 34px; */
+	/* [disabled]width: 35px; */
+}
+.redes ul li a.pinterest:hover {
+	background-position: -130px -110px;
+}
+
+
+
+
+
+
+
+
+.footer .mapsite ul {
+	float: left;
+}
+.footer .mapsite ul li {
+	float: left;
+	clear: left;
+}
+.footer .mapsite ul li.titulo {
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000;
+	font-size: 22px;
+	font-weight: 700;
+}
+.footer .mapsite ul li a {
+	float: left;
+	font-size: 20px;
+	font-weight: normal;
+	text-transform: uppercase;
+	color: #000;
+	text-decoration: none;
+}
+.footer .mapsite ul li a:hover, .footer .mapsite ul li a.current, .footer .mapsite ul li a.current:hover {
+	float: left;
+	text-decoration: underline;
+}
+
+.footer .leyton {
+	float: right;
+}
+.footer .leyton a {
+	float: left;
+	background-image: url(../img-fanlook/sprite-footer.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	height: 28px;
+	width: 110px;
+	text-indent: -9999px;
+}
+{
+	/* [disabled]background-image: url(../img-fanlook/fondo-landing.jpg); */
+	/* [disabled]background-repeat: no-repeat; */
+	/* [disabled]background-position: center bottom; */
+}
+.content {
+	width: 960px;
+	position: relative;
+	padding-top: 50px;
+	margin: auto;
+	/* [disabled]height: 680px; */
+	/* [disabled]background-color: #CCC; */
+}
+
+.participa {
+	font-size: 30px;
+	text-align: center;
+	display: block;
+	padding-right: 280px;
+	padding-left: 280px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.semanas {
+	font-size: 22px;
+	text-align: center;
+	display: block;
+	width: 350px;
+	margin-left: -175px;
+	position: absolute;
+	z-index: 200;
+	left: 50%;
+	top: 550px;
+}
+
+.semanas span {
+	font-size: 35px;
+	font-weight: 700;
+
+}
+.revisa {
+	background-image: url(../img-fanlook/revisar.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	color: #000;
+	text-decoration: underline;
+	display: inline-block;
+	padding-right: 25px;
+	font-weight: 700;
+}
+.revisa:hover {
+	text-decoration: none;
+}
+.titulo  {
+	font-weight: 700;
+	display: block;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+
+
+.core {
+	float: left;
+	height: 520px;
+	width: 960px;
+}
+.core-paginador {
+	float: left;
+	position: absolute;
+	z-index: 500;
+	left: 50%;
+	top: 460px;
+	width: 15px;
+	margin-left: -7.5px;
+}
+.core-paginador a {
+	float: left;
+	background-image: url(../img-fanlook/sprite-core-paginador.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 15px;
+	width: 15px;
+
+}
+.core-paginador a:hover {
+	background-position: -15px 0px;
+}
+.core-paginador a span {
+	display: none;
+}
+
+.core-paginador a.selected {
+	background-position: -30px 0px;
+}
+
+
+
+
+.core ul {
+	float: left;
+	width: 960px;
+	height: 520px;
+	/* [disabled]background-color: #FCF; */
+}
+.core ul li {
+	float: left;
+	width: 960px;
+	height: 520px;
+	position: relative;
+	background-image: url(../img-fanlook/vertical-puntos.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.core ul li .xl {
+	float: left;
+	width: 350px;
+	position: absolute;
+	z-index: 10;
+	left: 0px;
+	bottom: 100px;
+}
+.core ul li .nombre {
+	float: left;
+	position: absolute;
+	z-index: 10;
+	left: 250px;
+	top: 130px;
+	width: 185px;
+	font-size: 22px;
+	text-align: left;
+}
+
+.core ul li .nombre span {
+	font-size: 35px;
+	font-weight: 700;
+}
+
+
+
+.core ul li .elige {
+	width: 101px;
+	height: 101px;
+	position: absolute;
+	z-index: 11;
+	margin-left: -50.5px;
+	left: 50%;
+	top: 100px;
+	float: left;
+}
+.core ul li .elige a {
+	width: 101px;
+	height: 101px;
+	float: left;
+	background-image: url(../img-fanlook/sprite-elige.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-align: center;
+	text-indent: -9999px;
+}
+.core ul li .elige a:hover {
+	background-position: 0px -101px;
+}
+
+.core ul li .estos {
+	float: left;
+	position: absolute;
+	z-index: 10;
+	top: 110px;
+	width: 150px;
+	font-size: 22px;
+	text-align: right;
+	right: 300px;
+}
+
+.core ul li .estos span {
+	font-size: 35px;
+	font-weight: 700;
+}
+
+.core ul li .combi {
+	/* [disabled]background-color: #3C6; */
+	float: left;
+	height: 480px;
+	width: 350px;
+	position: absolute;
+	z-index: 9;
+	right: 0px;
+	bottom: 80px;
+}
+.core ul li .combi .n1 {
+	position: absolute;
+	z-index: 30;
+	bottom: 0px;
+	/* [disabled]background-color: #CFC; */
+	float: left;
+	width: 170px;
+	right: 180px;
+}
+.core ul li .combi .n2 {
+	position: absolute;
+	z-index: 29;
+	bottom: 20px;
+	/* [disabled]background-color: #CFC; */
+	float: left;
+	width: 170px;
+	right: 95px;
+}
+.core ul li .combi .n3 {
+	position: absolute;
+	z-index: 28;
+	bottom: 40px;
+	/* [disabled]background-color: #CFC; */
+	float: left;
+	right: 0px;
+	width: 170px;
+}
+.galerias {
+	margin: 30px;
+	position: relative;
+}
+
+.galerias .nav-left , .galerias .nav-right{
+	position: absolute;
+	z-index: 20;
+	top: 60px;
+
+}
+.galerias .nav-left {
+	background-image: url(../img-fanlook/nav-galeria-left.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 30px;
+	width: 9px;
+	float: left;
+	left: 20px;
+}
+.galerias .nav-right {
+	background-image: url(../img-fanlook/nav-galeria-right.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 30px;
+	width: 9px;
+	float: left;
+	right: 20px;
+}
+
+.galerias ul.categorias {
+	overflow: hidden;
+	width: 960px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.galerias ul.categorias li{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.galerias ul.categorias li a{
+	float: left;
+	padding: 4px;
+	text-decoration: none;
+}
+.galerias ul.categorias li a .img{
+	background-image: url(../img-fanlook/loading-16x16.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #FFF;
+	/* [disabled]height: 180px; */
+	width: 302px;
+}
+.galerias ul.categorias li a .nombre{
+	font-size: 22px;
+	background-color: #FFF;
+	color: #000;
+	padding: 3px;
+	font-weight: 900;
+}
+.galerias ul.categorias li a:hover {
+	background-color: #C9E6EA;
+}
+.galerias ul.nav-galeria {
+	float: left;
+	width: 880px;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 54px;
+	overflow: hidden;
+}
+.galerias ul.nav-galeria li {
+	float: left;
+	margin-right: 5px;
+}
+.galerias ul.nav-galeria li a {
+	float: left;
+	height: 50px;
+	width: 50px;
+	padding: 2px;
+	background-image: url(../img-fanlook/loading-32x32.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.galerias ul.nav-galeria li a:hover, .galerias ul.nav-galeria li a.current, .galerias ul.nav-galeria li a.current:hover {
+	background-color: #C9E6EA;
+}
+
+.galerias .full {
+	background-image: url(../img-fanlook/loading-64x64.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #FFF;
+	height: 500px;
+	width: 600px;
+	display: block;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+
+.premios {
+	margin: 30px;
+	position: relative;
+}
+.premios .tipos {
+	position: relative;
+	float: left;
+	width: 900px;
+	margin-top: 40px;
+}
+.premios .tipos .elige {
+	float: left;
+	width: 100px;
+	background-image: url(../img-fanlook/vertical-puntos.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 350px;
+}
+.premios .tipos .elige a {
+	width: 101px;
+	height: 101px;
+	float: left;
+	background-image: url(../img-fanlook/sprite-elige.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-align: center;
+	text-indent: -9999px;
+	margin-top: 110px;
+}
+.premios .tipos .elige a:hover {
+	background-position: 0px -101px;
+}
+
+.premios .tipos .semanales {
+	float: left;
+	width: 400px;
+	text-align: center;
+	font-size: 35px;
+}
+.premios .tipos .diarios {
+	float: left;
+	width: 400px;
+	text-align: center;
+	font-size: 35px;
+}
+.premios .tipos .img {
+	float: left;
+	width: 400px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-top: 30px;
+	height: 200px;
+}
+.premios .tipos .img.semanal {
+	background-image: url(../img-fanlook/premios-sem.png);
+}
+.premios .tipos .img.diarias {
+	background-image: url(../img-fanlook/premios-dia.png);
+}
+.detalle {
+
+
+}
+.detalle .look {
+	position: absolute;
+	left: 0px;
+	z-index: 10;
+	float: left;
+	width: 100%;
+	top: 390px;
+}
+
+.detalle .look .left, .look .right {
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 51px;
+	width: 16px;
+	position: absolute;
+	top: 85px;
+	z-index: 21;
+}
+.detalle .look .left {
+	background-image: url(../img-fanlook/look-left.png);
+	left: 10px;
+
+}
+.detalle .look .right {
+	background-image: url(../img-fanlook/look-right.png);
+	right: 10px;
+}
+
+
+
+.detalle .look ul {
+	display: block;
+
+}
+.detalle .look ul li {
+	float: left;
+	text-align: center;
+	background-image: url(../img-fanlook/look-thumb.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 110px;
+	width: 50px;
+}
+.detalle .look ul li a {
+	display: block;
+	/* [disabled]width: 50px; */
+	text-align: center;
+	margin: auto;
+}
+.detalle .look-xl {
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	top: 90px;
+	width: 284px;
+	margin-left: -530px;
+	height: 551px;
+	background-image: url(../img-fanlook/xl-fondo.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.detalle .look-patchway  {
+	position: absolute;
+	left: 50%;
+	z-index: 10;
+	float: left;
+	width: 108px;
+	background-image: url(../img-fanlook/patchway.png);
+	background-repeat: repeat;
+	background-position: 0px 0px;
+	height: 132px;
+	top: 70px;
+	margin-left: -53px;
+}
+
+.detalle .look-nombre {
+	position: absolute;
+	z-index: 15;
+	left: 30px;
+	top: 160px;
+	background-image: url(../img-fanlook/horizontal-puntos.png);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	width: 725px;
+	margin-left: -210px;
+	padding-bottom: 5px;
+	margin-top: -113px;
+}
+.detalle .look-nombre span {
+	font-size: 35px;
+	font-weight: 900;
+}
+
+.detalle .look-rectangulo {
+	position: absolute;
+	z-index: 21;
+	left: 50%;
+	top: 290px;
+	width: 100%;
+	background-image: url(../img-fanlook/look-rectangulo-fondo-tilla.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	height: 125px;
+	/*margin-top: -8%;*/
+	margin-left: -30px;
+}
+
+.detalle .look-rectangulo .seleccion {
+}
+.detalle .look-rectangulo .seleccion .img {
+	width: 250px;
+	float: left;
+	position: absolute;
+	z-index: 1;
+	left: 133px;
+	top: -142px;
+}
+.detalle .look-rectangulo .seleccion .nombre {
+	font-size: 45px;
+	position: absolute;
+	z-index: 23;
+	top: -100px;
+	font-weight: 900;
+	float: left;
+	width: 300px;
+	left: 350px;
+	text-align: right;
+}
+.detalle .look-rectangulo .seleccion .llamado {
+	font-size: 30px;
+	position: absolute;
+	z-index: 24;
+	left: 450px;
+	top: 10px;
+	text-align: right;
+}
+.detalle .look-rectangulo .seleccion .aqui {
+	position: absolute;
+	z-index: 24;
+	left: 557px;
+	top: 73px;
+}
+.detalle .look-rectangulo .seleccion .aqui a {
+	background-image: url(../img-fanlook/sprite-aqui.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+	height: 46px;
+	width: 100px;
+	text-indent: -9999px;
+}
+.detalle .look-rectangulo .seleccion .aqui a:hover {
+	background-position: right top;
+}
+
+.detalle .look-yaviste {
+	position: absolute;
+	z-index: 9999;
+	float: left;
+	/* [disabled]background-image: url(../img-fanlook/patchway.png); */
+	/* [disabled]background-repeat: repeat; */
+	/* [disabled]background-position: 0px 0px; */
+	height: 12px;
+	right: 250px;
+	bottom: 80px;
+}
+.detalle .look-yaviste .left {
+	background-image: url(../img-fanlook/yaviste-left.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 12px;
+	width: 73px;
+	margin-top: 5px;
+}
+.detalle .look-yaviste .nombre {
+	text-align: center;
+	float: left;
+	height: 12px;
+	font-size: 25px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.detalle .look-yaviste .right {
+	background-image: url(../img-fanlook/yaviste-right.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 12px;
+	width: 73px;
+	margin-top: 5px;
+}
+.tulook {
+	float: left;
+	width: 480px;
+	border: 4px dotted #FFF;
+	position: relative;
+	overflow: hidden;
+	height: 500px;
+	margin-top: 50px;
+	background-image: url(../img-fanlook/opacidad-blanca.png);
+	background-repeat: repeat;
+}
+.tulook .nombre {
+	font-size: 60px;
+	font-weight: 700;
+	color: #000;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+}
+.tulook .ellook {
+	float: right;
+	width: 220px;
+	position: absolute;
+	top: 26px;
+	right: 33px;
+}
+.tulook .zapatilla {
+	float: right;
+	width: 300px;
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+}
+.juega {
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	margin-left: -54px;
+	float: left;
+	height: 108px;
+	width: 108px;
+	top: 500px;
+}
+.gracias {
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	margin-left: -54px;
+	float: left;
+	height: 132px;
+	width: 108px;
+	top: 40px;
+	background-image: url(../img-fanlook/gracias.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+.juega .elige {
+	background-image: url(../img-fanlook/btn-elige-vuelve.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 108px;
+	width: 108px;
+}
+.juega .manana {
+	background-image: url(../img-fanlook/btn-elige-vuelve.png);
+	background-repeat: no-repeat;
+	background-position: 0px -108px;
+	text-indent: -9999px;
+	float: left;
+	height: 108px;
+	width: 108px;
+}
+.turanking {
+	float: left;
+	width: 400px;
+	position: relative;
+	overflow: hidden;
+	height: 500px;
+	margin-top: 80px;
+	margin-left: 50px;
+}
+.turanking .titulo-ranking {
+	width: 400px;
+	font-size: 50px;
+}
+.turanking .titulo-ranking b {
+	font-size: 25px;
+}
+.turanking ul {
+	float: left;
+	width: 400px;
+	margin-top: 20px;
+}
+.turanking ul li {
+	float: left;
+	width: 350px;
+	background-image: url(../img-fanlook/ranking-1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 59px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	margin-bottom: 15px;
+}
+.turanking ul li.uno {
+	background-image: url(../img-fanlook/ranking-1.png);
+}
+.turanking ul li .zapa {
+	float: left;
+	height: 59px;
+	width: 59px;
+}
+.turanking ul li .zapa-nombre {
+	float: left;
+	width: 200px;
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 30px;
+}
+.turanking ul li.dos {
+	background-image: url(../img-fanlook/ranking-2.png);
+}
+.turanking ul li.tres {
+	background-image: url(../img-fanlook/ranking-3.png);
+}
+.ganadores {
+	margin-top: 50px;
+}
+.ganadores .titulo {
+	font-size: 40px;
+	font-weight: normal;
+}
+.ganadores .titulo b {
+	font-size: 22px;
+}
+.ganadores .col1 {
+	float: left;
+	width: 480px;
+}
+.ganadores .col2 {
+	float: left;
+	width: 435px;
+	border-left-width: 2px;
+	border-left-style: dotted;
+	border-left-color: #000;
+	/* [disabled]height: 400px; */
+	margin-left: 20px;
+	padding-left: 20px;
+}
+.ganadores ul.listado {
+	display: block;
+	float: left;
+	margin-top: 40px;
+}
+.ganadores ul.listado li {
+	float: left;
+	margin-right: 7px;
+	margin-bottom: 7px;
+	position: relative;
+	border: 1px solid #FFF;
+}
+.ganadores ul.listado li.list {
+	float: left;
+	position: relative;
+	padding: 2px;
+	width: 435px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	background-color: #FFF;
+	margin: 0px;
+}
+.ganadores ul.listado li.list .nombre-list {
+	font-size: 16px;
+}
+.ganadores ul.listado li.list .fecha-list {
+	float: right;
+	font-size: 16px;
+}
+.ganadores ul.listado li .look-tu {
+	float: left;
+	height: 200px;
+	width: 150px;
+}
+.ganadores ul.listado li .look-tu .zapatilla {
+	padding-right: 10px;
+	position: absolute;
+	z-index: 1;
+	left: 5px;
+	top: 35px;
+	font-size: 20px;
+	font-weight: 700;
+}
+.ganadores ul.listado li .look-tu .fecha {
+	position: absolute;
+	z-index: 1;
+	top: 135px;
+	font-size: 15px;
+	font-weight: 700;
+	right: 5px;
+}
+.ganadores ul.listado li .look-tu .img {
+	background-color: #FFFFFF;
+	float: left;
+	height: 150px;
+	width: 150px;
+	background-image: url(../img-fanlook/loading-32x32.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.ganadores ul.listado li .look-tu .nombre {
+	display: block;
+	text-align: center;
+	height: 50px;
+	float: left;
+	width: 150px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCC;
+	background-color: #FFF;
+}

@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS LOGIN */
+
+div.login {
+	height: 222px;
+	width: 363px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	background-image: url(../img/admin/bg-login.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding: 30px;
+}

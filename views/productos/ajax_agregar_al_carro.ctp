@@ -1,0 +1,3 @@
+<?=
+$this->Javascript->object($respuesta);
+?>

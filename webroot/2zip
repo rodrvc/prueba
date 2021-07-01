@@ -1,0 +1,76 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <base href="/">
+    <title>Multivende</title>
+    <meta name="title" content="Multivende">
+    <meta name="keywords" content="inventario, mercado libre, e-commerce, omnicanal">
+    <meta name="description" content="Vende más con menos esfuerzo con la plataforma de gestión online desde donde podrás manejar todos tus canales de venta con sus inventarios sincronizados.">
+    <meta name="language" content="es-cl">
+    <meta name="robots" content="index,follow">
+
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="app/vendor.096431ce.css">
+    <link rel="stylesheet" href="../bower_components/slick-carousel/slick/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Rubik">
+    <link rel="stylesheet" href="app/app.a9abb088.css">
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+              n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+              document,'script','//connect.facebook.net/en_US/fbevents.js');
+      fbq('init', 621548904882487);
+    </script> 
+    <noscript>
+      <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=621548904882487&ev=PageView&noscript=1">
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+  <!-- Start of multivende Zendesk Widget script -->
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=975ac6f2-2207-487c-946b-b1c488872eb1"> </script>
+  <!-- End of multivende Zendesk Widget script -->
+
+  </head>
+  <body ng-app="imApp" class="header-fixed aside-fixed appWrapper">
+    <!--[if lt IE 7]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+      <div ui-view="" autoscroll="false"></div>
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-77944006-1', 'auto');
+      //ga('send', 'pageview'); Commented. Using angulartics instead
+
+    </script>
+
+
+    <!--[if lt IE 9]>
+    <script src="bower_components/es5-shim/es5-shim.js"></script>
+    <script src="bower_components/json3/lib/json3.min.js"></script>
+    <![endif]-->
+
+    <script src="app/vendor.28a22987.js"></script>
+
+<!--       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCAXHFRj0iN4Kj7zj7AXenyvKxsU88r7vA&v=3.exp"></script> -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <script src="app/app.460906ec.js"></script>
+    
+  </body>
+</html>

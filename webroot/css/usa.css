@@ -1,0 +1,1532 @@
+@charset "utf-8";
+body, html {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+body {
+	background-image: url(../img/btn1/fondo-todo.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	font-family: 'Tahoma', Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFF;
+}
+.usa {
+	min-width:960px;
+	min-height:600px;
+}
+.wrapper {
+	width: 960px;
+	position: absolute;
+	z-index: 501;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: -480px;
+	left: 50%;
+	top: 50%;
+	display: none;
+}
+.icon-seleccion {
+	position: absolute;
+	z-index: 530;
+	height: 40px;
+	width: 40px;
+	display: none;
+	background-image: url(../img/btn1/icon-seleccion.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.icon-seleccion#morado {
+	left: 370px;
+	top: 130px;
+}
+.icon-seleccion#lila {
+	left: 210px;
+	top: 130px;
+}
+.icon-seleccion#verde1 {
+	left: 500px;
+	top: 70px;
+}
+.icon-seleccion#verde2 {
+	left: 105px;
+	top: 73px
+}
+.icon-seleccion#naranja {
+	left: 220px;
+	top: 30px
+}
+.icon-seleccion#azul {
+	left: 340px;
+	top: 40px;
+}
+.header {
+	background-image: url(../img/btn1/fondo-header.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 136px;
+	width: 100%;
+	position: absolute;
+	z-index: 9999;
+	left: 0px;
+	top: -136px;
+}
+
+.footer {
+	background-image: url(../img/btn1/fondo-footer.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	z-index: 9999;
+	left: 0px;
+	bottom: -85px;
+}
+
+.header .content, .footer .content {
+	margin: auto;
+	width: 960px;
+	position: relative;
+}
+.logotipo-btn1 {
+	background-image: url(../img/btn1/logotipo-btn1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 121px;
+	width: 231px;
+	position: absolute;
+	left: 0px;
+	top: 10px;
+}
+.logotipo-btn1 a {
+	float: left;
+	height: 121px;
+	width: 231px;
+}
+
+.logotipo-btn1, .logotipo-gana {
+	display: none;
+}
+.logotipo-gana {
+	background-image: url(../img/btn1/logotipo-btn1-gana.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 139px;
+	width: 700px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.maletas {
+	height: 390px;
+	width: 704px;
+	position: absolute;
+	z-index: 502;
+	left: 50%;
+	top: 50%;
+	margin-top: -195px;
+	margin-left: -352px;
+}
+.letrero-maletas {
+	position: absolute;
+	z-index: 510;
+	left: 0px;
+	background-image: url(../img/btn1/elegir-maleta.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	float: left;
+	height: 0px;
+	width: 317px;
+}
+.letrero-maletas.l-verifica {
+	background-image: url(../img/btn1/letrero-verifica-tu-equipaje.png);
+	width: 317px;
+}
+.letrero-revision {
+	position: absolute;
+	z-index: 510;
+	left: 0px;
+	background-image: url(../img/btn1/cartel-revision.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	float: left;
+	height: 0px;
+	width: 317px;
+}
+
+.elige-tu-skechers {
+	background-image: url(../img/btn1/elige-tu-skechers.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 232px;
+	width: 290px;
+	position: absolute;
+	z-index: 530;
+	right: 30px;
+	bottom: 30px;
+	float: left;
+	display: none;
+}
+.elige-tu-skechers a {
+	height: 232px;
+	width: 290px;
+	float: left;
+}
+.perfil {
+	background-color: #000;
+	height: 26px;
+	width: 100%;
+	position: absolute;
+	bottom: -26px;
+	z-index: 900;
+	left: 0px;
+	background-image: url(../img/btn1/fondo-perfil.jpg);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;
+}
+.perfil .img {
+	background-color: #636691;
+	float: left;
+	height: 20px;
+	width: 20px;
+	border: 1px solid #333;
+	margin-top: 2px;
+}
+.perfil .texto {
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+
+.perfil ul.menu {
+	float: right;
+	height: 26px;
+	/* [disabled]width: 450px; */
+
+}
+.perfil ul.menu li {
+	float: left;
+}
+.perfil ul.menu li a {
+	float: left;
+	color: #FFF;
+	height: 19px;
+	padding-top: 7px;
+	padding-right: 10px;
+	padding-left: 42px;
+	/* [disabled]background-color: #999; */
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: 5px center;
+}
+.perfil ul.menu li a.datos {
+	background-image: url(../img/btn1/icon-persona.png);
+	background-position: 15px;
+}
+.perfil ul.menu li a.male {
+	background-image: url(../img/btn1/icon-maleta.png);
+	background-position: 10px;
+}
+.perfil ul.menu li a.premios {
+	background-image: url(../img/btn1/icon-skechers.png);
+}
+
+
+
+.perfil ul.menu li a:hover, .perfil ul.menu li a.current {
+	background-color: #000;
+}
+.registro {
+	background-image: url(../img/btn1/fondo-registrate-entra.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 578px;
+	width: 400px;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	bottom: -580px;
+	margin-left: -200px;
+}
+.registro.datos {
+	background-image: url(../img/btn1/fondo-mis-datos.png);
+}
+
+
+
+.registro .btn-conecta {
+	background-image: url(../img/btn1/btn-conecta-con-facebook.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 136px;
+	position: absolute;
+	z-index: 20;
+	top: 70px;
+	right: 30px;
+}
+.registro .btn-conecta:hover {
+	background-position: 0px -33px;
+}
+
+.registro .btn-volver {
+	background-image: url(../img/btn1/btn-volver.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 92px;
+	position: absolute;
+	z-index: 20;
+	right: 30px;
+	top: 270px;
+}
+.registro .btn-volver:hover {
+	background-position: 0px -33px;
+}
+.registro .btn-guardar {
+	background-image: url(../img/btn1/btn-guardar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 100px;
+	position: absolute;
+	z-index: 20;
+	right: 30px;
+	top: 270px;
+}
+
+
+.registro .btn-entrar {
+	background-image: url(../img/btn1/btn-entra.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 79px;
+	position: absolute;
+	z-index: 20;
+	top: 270px;
+	left: 30px;
+}
+.registro .btn-guardar:hover {
+	background-position: 0px -33px;
+}
+
+.registro .bloque {
+	float: left;
+	margin-top: 70px;
+	margin-left: 30px;
+	color: #999;
+}
+.registro .bloque.bajo-avatar {
+	margin-top: 120px;
+}
+.registro .bloque.bajo-avatar2 {
+	margin-top: 30px;
+}
+
+.registro .avatar {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-color: #CCC;
+	position: absolute;
+	z-index: 50;
+	left: 30px;
+	top: 65px;
+}
+
+
+
+.registro .form-registrate {
+	width: 145px;
+	float: left;
+}
+
+.registro .form-registrate input {
+	width: 145px;
+	float: left;
+	background-color: #FFF;
+	border: 1px solid #FFF;
+	padding: 2px;
+	margin-top: 6px;
+	color: #D8D8D8;
+}
+.imagen-como {
+	background-image: url(../img/btn1/imagen-como-participar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 1018px;
+	width: 453px;
+	float: left;
+	position: relative;
+}
+
+
+.registro .form-registrate .b-bottom {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+}
+
+
+.registro .form-registrate td {
+
+
+}
+.entra {
+	background-image: url(../img/btn1/fondo-entra.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 578px;
+	width: 400px;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	bottom: -580px;
+	margin-left: -200px;
+}
+.entra .form-registrate {
+	width: 145px;
+	float: left;
+}
+.entra .form-registrate input {
+	width: 145px;
+	float: left;
+	background-color: #FFF;
+	border: 1px solid #FFF;
+	padding: 2px;
+	margin-top: 6px;
+	color: #D8D8D8;
+}
+.entra .form-registrate .b-bottom {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+}
+.entra .bloque {
+	float: right;
+	margin-top: 105px;
+	color: #999;
+	margin-right: 30px;
+}
+.entra .btn-entrar {
+	background-image: url(../img/btn1/btn-entra.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 79px;
+	position: absolute;
+	z-index: 20;
+	top: 220px;
+	right: 20px;
+}
+
+.entra .btn-conecta {
+	background-image: url(../img/btn1/btn-conecta-con-facebook.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 136px;
+	position: absolute;
+	z-index: 20;
+	top: 120px;
+	left: 40px;
+}
+.entra .btn-conecta:hover {
+	background-position: 0px -33px;
+}
+
+.entra .btn-registrate {
+	background-image: url(../img/btn1/btn-registrate.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 153px;
+	position: absolute;
+	z-index: 20;
+	right: 20px;
+	top: 270px;
+}
+
+.mis-maletas {
+	background-image: url(../img/btn1/fondo-mismaletas.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 586px;
+	width: 900px;
+	margin-left: -450px;
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	bottom: -586px;
+}
+.mis-amigos {
+	background-image: url(../img/btn1/fondo-invitar-amigos.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 586px;
+	width: 965px;
+	margin-left: -483px;
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	bottom: -586px;
+}
+.como-participar {
+	background-image: url(../img/btn1/fondo-como-participar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 586px;
+	width: 905px;
+	margin-left: -458px;
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	bottom: -586px;
+}
+.como-participar .box {
+	height: 321px;
+	width: 476px;
+	overflow: auto;
+	position: absolute;
+	z-index: 20;
+	left: 240px;
+	top: 100px;
+}
+.como-participar .ingresa {
+	float: left;
+	position: absolute;
+	z-index: 20;
+	left: 50px;
+	top: 64px;
+	height: 39px;
+	width: 149px;
+	text-indent: -9999px;
+}
+.como-participar .registrate {
+	position: absolute;
+	z-index: 30;
+	top: 65px;
+	right: 36px;
+	text-indent: -9999px;
+	float: left;
+	height: 38px;
+	width: 193px;
+}
+.mis-maletas .tabla {
+	position: absolute;
+	z-index: 20;
+	left: 257px;
+	top: 64px;
+	float: left;
+	height: 346px;
+	width: 467px;
+	overflow: auto;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+ul.zapat {
+	float: left;
+	position: absolute;
+	z-index: 20;
+	left: 169px;
+	top: 84px;
+}
+ul.zapat li {
+	float: left;
+	clear: left;
+	margin-bottom: 5px;
+}
+ul.zapat li a {
+	clear: left;
+	float: left;
+	height: 42px;
+	width: 50px;
+	text-decoration: none;
+}
+
+.tabla ul {
+	float: left;
+}
+.tabla ul li {
+	float: left;
+
+}
+
+.tabla ul li a {
+	float: left;
+	background-color: #FFF;
+	display: block;
+	margin-bottom: 5px;
+	padding: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	text-decoration: none;
+	clear: left;
+	width: 440px;
+	color: #999;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.tabla ul li a .icon-maleta {
+	float: left;
+	background-color: #0C9;
+	height: 19px;
+	width: 23px;
+	margin-right: 10px;
+	margin-top: 3px;
+	margin-left: 10px;
+}
+.tabla ul li a .id, .tabla ul li a .fecha, .tabla ul li a .equipaje {
+	padding-top: 7px;
+}
+.tabla ul li a .id {
+	float: left;
+	text-align: center;
+	width: 100px;
+}
+
+.tabla ul li a .fecha {
+	float: left;
+	text-align: center;
+	width: 60px;
+}
+.tabla ul li a .equipaje {
+	float: left;
+	text-align: right;
+	margin-right: 10px;
+	margin-left: 50px;
+}
+.tabla ul li a .zapa {
+	float: left;
+}
+.tabla ul li a:hover , .tabla ul li a.current{
+	background-color: #FFFFBF;
+}
+.amigos {
+	position: absolute;
+	z-index: 20;
+	left: 207px;
+	top: 89px;
+	float: left;
+	height: 280px;
+	width: 593px;
+	overflow: auto;
+	padding: 0px;
+}
+.amigos ul {
+	float: left;
+}
+.amigos ul li {
+	float: left;
+
+}
+
+.amigos ul li a {
+	float: left;
+	background-color: #6d7681;
+	display: block;
+	margin-bottom: 5px;
+	padding: 2px;
+	/* [disabled]-webkit-border-radius: 5px; */
+	/* [disabled]border-radius: 5px; */
+	text-decoration: none;
+	clear: left;
+	width: 135px;
+	color: #999;
+	font-size: 14px;
+	text-transform: uppercase;
+	margin-right: 5px;
+	overflow: hidden;
+}
+.amigos ul li a .img {
+	float: left;
+	background-color: #FFF;
+	height: 50px;
+	width: 50px;
+	border: 2px solid #cdcfdc;
+	background-image: url(../img/btn1/loading.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.amigos ul li a .nombre {
+	/* [disabled]float: left; */
+	/* [disabled]text-align: center; */
+	/* [disabled]width: 100px; */
+	font-size: 13px;
+	margin-left: 60px;
+	font-weight: normal;
+	text-transform: none;
+	margin-top: 5px;
+	color: #cdcfdc;
+	height: 40px;
+	overflow: hidden;
+}
+.amigos ul li a:hover     {
+	background-color: #666666;
+}
+.amigos ul li a.current {
+	background-color: #000000;
+}
+.amigos ul li a.current .img {
+	border-top-color: #f5e400;
+	border-right-color: #f5e400;
+	border-bottom-color: #f5e400;
+	border-left-color: #f5e400;
+}
+.amigos ul li a.current .nombre {
+	color: #f5e400;
+}
+
+
+.premios-listado {
+	background-image: url(../img/btn1/listado-cupones-tuyos-fondo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 586px;
+	width: 433px;
+	position: absolute;
+	z-index: 20;
+	left: 0px;
+	bottom: -586px;
+}
+.btn-invitar {
+	background-image: url(../img/btn1/btn-invitar-amigos.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 157px;
+	position: absolute;
+	z-index: 20;
+	top: 404px;
+	right: 170px;
+}
+.quedan {
+	position: absolute;
+	z-index: 20;
+	top: 380px;
+	right: 170px;
+	color: #333;
+	font-weight: 900;
+}
+.quedan span {
+	font-weight: 900;
+
+}
+
+.btn-invitar.disabled {
+	cursor: default;
+	opacity: 0.4;
+}
+
+
+.premios-detalle {
+	background-image: url(../img/btn1/detalle-cupon-mano-fondo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 557px;
+	width: 432px;
+	position: absolute;
+	z-index: 20;
+	bottom: -557px;
+	right: 0px;
+}
+ul.p {
+	float: left;
+}
+.box-p {
+	overflow: auto;
+	position: absolute;
+	z-index: 50;
+	left: 170px;
+	top: 110px;
+	/* [disabled]background-color: #CF9; */
+	height: 320px;
+	width: 250px;
+	float: left;
+}
+ul.p li {
+	float: left;
+}
+ul.p li a {
+	float: left;
+	background-color: #FFF;
+	margin-bottom: 5px;
+	padding: 2px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	width: 225px;
+	font-size: 11px;
+}
+ul.p li a:hover {
+	background-color: #FFFFBF;
+}
+ul.p li a.current {
+	background-color: #FFFF71;
+}
+ul.p li a .tipo {
+	float: left;
+	padding: 3px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	font-weight: 900;
+	color: #FFF;
+	text-align: center;
+	width: 27px;
+}
+
+ul.p li a .tipo.descuento {
+	float: left;
+	background-color: #F03;
+}
+ul.p li a .tipo.zapatilla {
+	float: left;
+	background-color: #0C9;
+	background-image: url(../img/btn1/icon-zapatilla-listado-premio.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 15px;
+}
+
+ul.p li a .text {
+	float: left;
+	font-weight: normal;
+	color: #000;
+	/* [disabled]background-color: #0F3; */
+	width: 85px;
+	margin-top: 2px;
+	margin-left: 5px;
+}
+ul.p li a .ver {
+	float: left;
+	text-align: center;
+	width: 40px;
+	margin-top: 2px;
+	margin-left: 5px;
+	color: #00F;
+	text-decoration: underline;
+}
+
+ul.p li a .estado {
+	float: left;
+	/* [disabled]background-color: #CCC; */
+	text-align: center;
+	width: 50px;
+	margin-top: 2px;
+	margin-left: 5px;
+}
+ul.p li a .estado.disponible {
+	float: left;
+	color: #0C3;
+}
+ul.p li a .estado.regalado {
+	float: left;
+	color: #06C;
+}
+ul.p li a .estado.canjeado {
+	float: left;
+	color: #999;
+}
+.premios-detalle .tipo {
+	background-image: url(../img/btn1/detalle-tipo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 79px;
+	width: 203px;
+	position: absolute;
+	z-index: 10;
+	left: 0px;
+	top: 20px;
+	padding-left: 135px;
+}
+.premios-detalle .tipo .text {
+	font-size: 18px;
+	font-weight: 900;
+	color: #FFF;
+	margin-top: 25px;
+}
+.premios-detalle .tipo .codigo {
+	font-size: 15px;
+	font-weight: normal;
+	color: #000;
+	margin-top: 12px;
+}
+.premios-detalle .canjear {
+	background-image: url(../img/btn1/btn-canjear.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 31px;
+	width: 124px;
+	position: absolute;
+	z-index: 21;
+	left: 21px;
+	top: 109px;
+	text-indent: -9999px;
+}
+.premios-detalle .como {
+	color: #09F;
+	text-decoration: underline;
+	position: absolute;
+	z-index: 20;
+	left: 155px;
+	top: 117px;
+}
+.premios-detalle .enviar {
+	background-image: url(../img/btn1/btn-enviar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -999px;
+	float: left;
+	height: 31px;
+	width: 128px;
+	position: absolute;
+	z-index: 22;
+	left: 20px;
+	top: 224px;
+}
+
+.premios-detalle .regala {
+	position: absolute;
+	z-index: 20;
+	left: 20px;
+	top: 160px;
+}
+.premios-detalle .regala .text {
+	font-weight: 900;
+	color: #000;
+}
+.premios-detalle .regala .input {
+	background-color: #FFF;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	width: 200px;
+	border: 1px solid #FFF;
+	padding: 5px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.premios-detalle .regala .pie {
+	color: #999;
+	font-weight: normal;
+}
+.revision {
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	margin-left: -444px;
+	bottom: -400px;
+}
+.revision .huincha {
+	background-image: url(../img/btn1/s-linea.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 314px;
+	width: 888px;
+	position: absolute;
+	z-index: 20;
+	left: 0px;
+	top: 0px;
+}
+.revision .rx {
+	background-image: url(../img/btn1/s-rx.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	position: absolute;
+	z-index: 25;
+	left: 277px;
+	top: 0px;
+	height: 279px;
+	width: 328px;
+}
+.revision .rx-maletas {
+	height: 210px;
+	width: 234px;
+	position: absolute;
+	z-index: 30;
+	left: 321px;
+	top: 26px;
+}
+.revision .rx-maletas .m1 {
+	height: 210px;
+	width: 234px;
+	position: absolute;
+	z-index: 30;
+	left: 0px;
+	top: 0px;
+	background-image: url(../img/btn1/rx-maleta-2.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	display: none;
+}
+.revision .rx-maletas .m2 {
+	height: 210px;
+	width: 234px;
+	position: absolute;
+	z-index: 30;
+	left: 0px;
+	top: 0px;
+	background-image: url(../img/btn1/rx-maleta-3.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	display: none;
+}
+
+
+.revision ul.m {
+	/* [disabled]background-color: #F09; */
+	float: left;
+	height: 130px !important;
+	width: 765px;
+	overflow: hidden;
+}
+
+.revision ul.m li {
+	float: left;
+	position: relative;
+	/* [disabled]background-color: #FFC; */
+	height: 130px;
+	width: 85px;
+}
+.revision ul.m li .tipo-m {
+	background-image: url(../img/btn1/s-maleta.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 108px;
+	width: 73px;
+	position: absolute;
+	left: 7px;
+	bottom: -10px;
+	z-index: 1;
+}
+.revision ul.m li .tipo-m.tu {
+	background-image: url(../img/btn1/s-maleta-tu.png);
+}
+.revision ul.m li .amigo {
+	width: 30px;
+	position: absolute;
+	left: 0px;
+	z-index: 2;
+	background-color: #000;
+	top: 0px;
+	background-image: url(../img/btn1/icon-flecha.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	padding-bottom: 15px;
+	height: 30px;
+}
+.revision .m-box {
+	position: absolute;
+	z-index: 22;
+	left: 27px;
+	top: 12px;
+}
+.revision ul.m li:hover {
+}
+.revision ul.m li:hover .amigo {
+	display: block;
+}
+.exito {
+	height: 500px;
+	width: 330px;
+	margin-left: -165px;
+	position: absolute;
+	z-index: 50;
+	left: 50%;
+	/* [disabled]display: none; */
+	background-image: url(../img/btn1/policia.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	bottom: -500px;
+}
+.footer .content {
+	text-align: center;
+}
+
+.f-skechers {
+	/* [disabled]float: left; */
+	position: absolute;
+	left: 0px;
+	top: -3px;
+}
+
+.f-skechers a {
+	background-image: url(../img/btn1/f-skechers.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 20px;
+	width: 52px;
+}
+
+
+.f-links {
+	/* [disabled]position: absolute; */
+	/* [disabled]top: 0px; */
+	/* [disabled]right: 0px; */
+	margin-top: 15px;
+	text-align: center;
+}
+.f-links a {
+	color: #adb1d9;
+	font-weight: 900;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #adb1d9;
+	text-decoration: none;
+	margin-left: 5px;
+	padding-left: 5px;
+}
+.f-links a.bases {
+	color: #dcdff3;
+}
+
+
+
+.f-lm {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.f-lm a {
+	background-image: url(../img/btn1/f-lm.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 16px;
+	width: 63px;
+	float: left;
+}
+
+.links {
+	position: absolute;
+	z-index: 500;
+	top: 10px;
+	right: 10px;
+	width: 200px;
+}
+
+.links .tiendaonline {
+	background-image: url(../img/btn1/tienda-online.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 58px;
+	width: 200px;
+}
+.links .tiendaonline:hover {
+	background-position: 0px -58px;
+}
+.links .comoparticipar {
+	background-image: url(../img/btn1/como-participar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: right;
+	height: 69px;
+	width: 120px;
+}
+.links .comoparticipar:hover {
+	background-position: 0px -69px;
+}
+.verifica {
+	width: 500px;
+	margin-left: -250px;
+	position: absolute;
+	z-index: 50;
+	left: 50%;
+	bottom: 0px;
+}
+.verifica .maleta {
+	background-image: url(../img/btn1/maleta-abierta.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	width: 500px;
+	position: absolute;
+	z-index: 20;
+	bottom: -400px;
+	padding-bottom: 218px;
+}
+.verifica .maleta .tilla1 {
+	background-image: url(../img/btn1/globo-1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 123px;
+	width: 101px;
+	position: absolute;
+	z-index: 50;
+	left: 129px;
+	top: -133px;
+}
+.verifica .maleta .tilla1 .cerrar {
+	background-image: url(../img/btn1/cerrar-globo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 18px;
+	width: 18px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 52;
+}
+.verifica .maleta .tilla1 .img {
+	background-color: #FFFFFF;
+	height: 60px;
+	width: 60px;
+	position: absolute;
+	float: left;
+	z-index: 55;
+	left: 20px;
+	top: 20px;
+}
+.verifica .maleta .tilla2 {
+	background-image: url(../img/btn1/globo-2.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 130px;
+	width: 101px;
+	position: absolute;
+	z-index: 50;
+	left: 250px;
+	top: -153px;
+}
+.verifica .maleta .tilla2 .cerrar {
+	background-image: url(../img/btn1/cerrar-globo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 18px;
+	width: 18px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 52;
+}
+.verifica .maleta .tilla2 .img {
+	background-color: #FFFFFF;
+	height: 60px;
+	width: 60px;
+	position: absolute;
+	float: left;
+	z-index: 55;
+	left: 20px;
+	top: 20px;
+}
+.verifica .maleta .tilla3 {
+	background-image: url(../img/btn1/globo-3.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 123px;
+	width: 101px;
+	position: absolute;
+	z-index: 50;
+	left: 370px;
+	top: -133px;
+}
+.verifica .maleta .tilla3 .cerrar {
+	background-image: url(../img/btn1/cerrar-globo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 18px;
+	width: 18px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 52;
+}
+.verifica .maleta .tilla3 .img {
+	background-color: #FFFFFF;
+	height: 60px;
+	width: 60px;
+	position: absolute;
+	float: left;
+	z-index: 55;
+	left: 20px;
+	top: 20px;
+}
+.a-embarque  {
+	position: absolute;
+	z-index: 530;
+	right: 30px;
+	bottom: 30px;
+	float: left;
+}
+.todavia {	
+	position: absolute;
+	z-index: 530;
+	right: 30px;
+	bottom: 30px;
+	float: left;
+}
+.todavia a {
+	height: 116px;
+	width: 237px;
+	float: left;
+	background-image: url(../img/btn1/te-faltan.png);
+	background-position: 0px 0px;
+}
+.todavia a:hover {
+	background-position: 0px -116px;
+}
+.a-embarque a  {
+	height: 134px;
+	width: 246px;
+	float: left;
+	background-image: url(../img/btn1/continua-a-embarque.png);
+	background-position: 0px 0px;
+}
+.a-embarque a:hover {
+	background-position: 0px -134px;
+}
+.landing {
+	text-align: center;
+	margin-top: -230px;
+	margin-left: -330px;
+	position: absolute;
+	z-index: 500;
+	left: 50%;
+	top: 50%;
+}
+.ya-estas-participando {
+	float: left;
+	height: 121px;
+	width: 345px;
+	position: absolute;
+	z-index: 20;
+	left: 50%;
+	top: 50%;
+	margin-top: -60px;
+	margin-left: -172px;
+}
+.ya-estas-participando a {
+	background-image: url(../img/btn1/ya-estas-participando.png);
+	background-position: 0px 0px;
+	width: 345px;
+	float: left;
+	height: 121px;
+}
+.ya-estas-participando a:hover {
+	background-position: 0px -121px;
+}
+.premio-pp {
+	float: left;
+	height: 323px;
+	width: 470px;
+	position: absolute;
+	z-index: 50;
+	left: 50%;
+	top: 50%;
+	margin-top: -160px;
+	margin-left: -235px;
+}
+.premio-pp .canjea-ahora {
+	height: 48px;
+	width: 136px;
+	position: absolute;
+	z-index: 20;
+	bottom: 3px;
+	left: 0px;
+	text-indent: -9999px;
+}
+.premio-pp .regalar-a-un-amigo {
+	height: 48px;
+	width: 158px;
+	position: absolute;
+	z-index: 20;
+	bottom: 3px;
+	left: 144px;
+	text-indent: -999px;
+}
+.premio-pp .guardar-y-continuar {
+	height: 48px;
+	width: 158px;
+	position: absolute;
+	z-index: 20;
+	bottom: 3px;
+	right: 2px;
+	text-indent: -9999px;
+}
+.registro.datos.guardia {
+	background-image: url(../img/btn1/guardia-fondo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 280px;
+	padding-top: 120px;
+	width: 385px;
+	margin-left: -342px;
+}
+
+.opacidad {
+	background-image: url(../img/btn1/opacidad.png);
+	background-repeat: repeat;
+	background-position: 0px 0px;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 99999;
+	left: 0px;
+	top: 0px;
+}
+.opacidad .texto {
+	background-image: url(../img/btn1/aviso.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 58px;
+	width: 243px;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	top: 50%;
+	margin-top: -39px;
+	margin-left: -161px;
+	font-size: 17px;
+	font-weight: 900;
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 60px;
+	padding-right: 20px;
+}
+.opacidad .texto .cerrar {
+	background-image: url(../img/btn1/aviso-cerrar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 12px;
+	width: 12px;
+	position: absolute;
+	z-index: 6;
+	top: 5px;
+	right: 5px;
+}
+.enviar-olvide-clave {
+	background-image: url(../img/btn1/btn-enviar-contrasena.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 22px;
+	width: 76px;
+	position: absolute;
+	z-index: 20;
+	right: 43px;
+	bottom: 18px;
+}
+.olvide {
+	font-weight: normal;
+	color: #0D6DFC;
+	text-decoration: underline;
+	position: absolute;
+	z-index: 20;
+	top: 280px;
+	right: 30px;
+	font-size: 11px;
+}
+.registrate-inicio {
+	font-weight: normal;
+	color: #0D6DFC;
+	text-decoration: underline;
+	position: absolute;
+	z-index: 20;
+	top: 260px;
+	right: 30px;
+	font-size: 11px;
+}
+
+.back-olvide {
+	background-image: url(../img/btn1/opacidad.png);
+	background-repeat: repeat;
+	background-position: 0px 0px;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 9998;
+	left: 0px;
+	top: 0px;
+}
+.back-olvide .texto {
+	background-image: url(../img/btn1/aviso.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	float: left;
+	height: 58px;
+	width: 243px;
+	position: absolute;
+	z-index: 2;
+	left: 50%;
+	top: 50%;
+	margin-top: -39px;
+	margin-left: -161px;
+	font-size: 17px;
+	font-weight: 900;
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 60px;
+	padding-right: 20px;
+}
+.back-olvide .texto .cerrar-olvide {
+	background-image: url(../img/btn1/aviso-cerrar.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 12px;
+	width: 12px;
+	position: absolute;
+	z-index: 6;
+	top: 5px;
+	right: 5px;
+}
+
+.invitar-amigos {
+	background-image: url(../img/btn1/btn-invitar-amigos.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	float: left;
+	height: 33px;
+	width: 177px;
+	z-index: 200;
+	position: absolute;
+	bottom: 45px;
+	right: 10px;
+}.invitar-amigos:hover {
+	background-position: 0px -33px;
+}

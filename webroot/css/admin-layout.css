@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS ESTRUCTURA */
+
+body {
+	font-family: "Tahoma", Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	background-image: url(../img/admin/fondo-02.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+}
+a:link {
+	text-decoration: underline;
+}
+a:visited {
+}
+a:hover {
+}
+
+h1.titulo {
+	font-size: 25px;
+	font-weight: 900;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+h1.titulo .boton-titulo {
+	font-size: 12px;
+	margin-left: 15px;
+	float: right;
+}
+h1.titulo .boton-titulo img {
+	position: relative;
+	top: 2px;
+	margin-right: 5px;
+}
+h1.titulo .boton-titulo a {
+	text-decoration: none;
+	color: #666;
+}
+
+h1.asociados {
+	margin-top: 40px;
+}
+h2.subtitulo {
+	font-size: 20px;
+	font-weight: normal;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+h2.usuario {
+	font-weight: normal;
+	font-size: 14px;
+	text-align: right;
+	margin-top: 15px;
+	margin-right: 40px;
+}
+b.icon {
+	background-image: url(../img/iconos/user_16.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding-right: 20px;
+}
+b.tarea {
+	background-image: url(../img/iconos/letter_16.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding-right: 20px;
+}
+b.salir {
+	background-image: url(../img/iconos/stop_16.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	padding-right: 20px;
+}
+
+
+
+p.parrafo {
+	line-height: 17px;
+	font-weight: normal;
+	text-align: justify;
+}
+
+input.clase-input {
+	padding: 5px;
+	width: 290px;
+	background-color: #F2F2F2;
+	font-size: 14px;
+}
+select.clase-input {
+	padding: 5px;
+	width: 300px;
+	font-size: 14px;
+}
+
+input.clase-input[type=checkbox] {
+	width: 20px;
+}
+
+textarea.clase-input {
+	padding: 5px;
+	width: 290px;
+	font-size: 14px;
+}
+
+div.alerta {
+	background-color: #D0E7B8;
+	color: #699935;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 17px;
+	font-weight: 900;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+
+/* Estilos para cuadros de dialogo */
+.dialog h1.titulo {
+	font-size: 18px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+}
+.dialog ul.edit li .texto {
+	width: 150px;
+}
+.dialog input.clase-input {
+	width: 240px;
+}
+.dialog ul.edit {
+	margin-bottom: 5px;
+}
+.dialogView {
+	font-size: 11px;
+}
+.dialogView h1 {
+	font-size: 17px;
+	padding-bottom: 5px;
+}
+.dialogView ul.edit li {
+	padding: 6px;
+}
+.dialogView ul.edit li .texto {
+	font-size: 11px;
+}
+
+pre.cake-debug {
+	background: #ffcc00;
+	font-size: 120%;
+	line-height: 140%;
+	margin-top: 1em;
+	overflow: auto;
+	position: relative;
+}

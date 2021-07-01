@@ -1,0 +1,601 @@
+@charset "utf-8";
+.cont-carro {
+	width: 960px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	float:left;
+	/* [disabled]background-color: #FFF; */
+}
+
+.cont-carro .registro {
+	background-color: #FFFFFF;
+	float: left;
+	margin: 0 0 10px;
+	width: 960px;
+}
+.cont-carro .cont-pasos {
+	background-image: url(../img/pasos.png);
+	float: left;
+	height: 32px;
+	margin: 17px 278px;
+	position: relative;
+	width: 403px;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.cont-carro .cont-pasos.dos {
+	background-position: left -31px;
+}
+.cont-carro .cont-pasos.tres {
+	background-position: left -61px;
+}
+.cont-carro .cont-pasos.cinco {
+	background-position: left -123px;
+}
+
+
+
+.cont-carro .cont-pasos span.lugar {
+	position: absolute;
+	left: -3%;
+	top: 25px;
+	float: left;
+	color: #127c97;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-top: 10px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	font-size: 13px;
+	font-weight: bold;
+}
+.cont-carro .cont-pasos span.lugar.dos {
+	left: 20%;
+}
+.cont-carro .cont-pasos span.lugar.tres {
+	left: 50%;
+}
+.cont-carro .cont-pasos span.lugar.cuatro {
+    left: 73%;
+    top: 10px;
+}
+.cont-carro .cont-pasos span.lugar.cinco {
+	left: 85%;
+}
+.cont-carro .cont-pasos span.lugar.current, .cont-carro .cont-pasos span.lugar:hover { 
+	color: #18A6C9;
+	text-decoration: none;
+}
+.cont-carro .online {
+	float: left;
+	margin: 30px 0;
+	width: 960px;
+}
+.cont-carro .online h2 {
+    border-bottom: 1px solid #CCCCCC;
+    color: #5C2558;
+    float: left;
+    font-family: 'Arial',Helvetica,sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 16px 170px 0 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 620px;
+}
+.cont-carro .online h2.titudos {
+	text-decoration: none;
+	width: 960px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cont-carro .online .felicidades {
+	background-image: url(../img/felicidades.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: left;
+	height: 101px;
+	width: 960px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+.cont-carro .online .felicidades.fallo {
+	background-image: url(../img/lo-sentimos.png);
+	height: 75px;
+	width: 960px;
+}
+
+.cont-carro .cont-registro {
+	background-image: url("../img/borde-bottom.png");
+	background-position: left top;
+	background-repeat: repeat-x;
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.cont-carro .cont-registro .info-confi {
+    float: left;
+    margin: 20px 0 10px;
+    min-height: 165px;
+    width: 960px;
+}
+.cont-carro .cont-registro .info-confi.confirma {
+	min-height:80px;
+}
+.cont-carro .cont-registro .info-confi.perfi {
+	min-height:105px;
+}
+
+.cont-carro .cont-registro .info-confi p {
+	font-size: 11px;
+	color: #7c7c7c;
+	text-decoration: none;
+	width: 500px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 55px;
+	text-align: left;
+	line-height: 17px;
+	font-weight: 900;
+}
+.cont-carro .cont-registro .info-confi p.datos {
+	margin-left:35px;
+
+}
+.cont-carro .cont-registro .info-confi b {
+	font-size: 15px;
+	color: #7A5190;
+	margin: 0px;
+}
+
+
+.cont-carro .blokes {
+	margin: 5px;
+	float: left;
+	width: 460px;
+}
+.cont-carro .blokes.nuevadire {
+	display: block;
+}
+
+.cont-carro .blokes.bord {
+	background-image: url(../img/border-right.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.cont-carro .blokes h3 {
+	color: #5C2558;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 5px 0 5px 62px;
+	text-decoration: none;
+	text-align: left;
+}
+
+.cont-carro .blokes .creacuenta {
+    float: left;
+    margin: 10px 125px 10px 65px;
+    width: 270px;
+}
+.cont-carro .blokes .creacuenta li {
+	float: left;
+	width: 300px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	display: block;
+}
+
+.cont-carro .blokes .creacuenta li h3{
+	color: #5C2558;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 10px 0;
+	text-decoration: none;
+	text-align: left;
+}
+.cont-carro .blokes .creacuenta li .casa {
+	float: left;
+	width: 120px;
+}
+.cont-carro .blokes .creacuenta li.borde {
+	border-bottom-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-bottom-color: #DDD;
+	padding-bottom: 10px;
+}
+
+.cont-carro .blokes .creacuenta li .fecha {
+    float: left;
+    margin: 0 15px 0 0;
+    text-align: left;
+    width: 55px;
+}
+.cont-carro .blokes .creacuenta li .area-input {
+	text-align: left;
+	float: left;
+	margin:0 5px 0 0;
+}
+.cont-carro .blokes .creacuenta li .area-input.margin {
+    margin: 16px 0 0;
+}
+
+.cont-carro .blokes .creacuenta li .area-input.mini {
+	width: 25px;
+}
+.cont-carro .blokes .creacuenta li .micasa {
+	background-image: url(../img/marco-datosdireccion.png);
+	float: left;
+	height: 135px;
+	width: 265px;
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding: 5px;
+	display: block;
+}
+.cont-carro .blokes .creacuenta li .micasa p {
+	font-size: 12px;
+	text-align: left;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+.cont-carro .blokes .creacuenta li .micasa h3 {
+	text-align: left;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 20px;
+	float: left;
+	width: 250px;
+	color: #33476b;
+}
+
+
+
+
+
+.cont-carro .blokes .olvide-pass {
+	float: left;
+	/* [disabled]width: 380px; */
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 70px;
+}
+
+.cont-carro .blokes a.olvide  {
+	float: left;
+	font-size: 12px;
+	color: #193c59;
+	text-decoration: none;
+	/* [disabled]width: 200px; */
+}
+.cont-carro .blokes a.olvide:hover {
+	color: #22537B;
+	text-decoration: underline;
+}
+.cont-carro .registro .tudescuento {
+	display: block;
+	position: relative;
+	z-index: 1;
+	float: left;
+	height: 53px;
+	width: 960px;
+	margin-top: 30px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cont-carro .registro .tudescuento span {
+    background-image: url("../img/banner-descuento.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    float: left;
+    height: 43px;
+    left: 54px;
+    padding: 10px 0 0 30px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    top: 3px;
+    width: 397px;
+}
+
+
+.cont-carro .carro  {
+	background-image: url("../img/marco-carro-bog.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+	float: left;
+	height: auto;
+	margin: 0 54px 20px;
+	width: 853px;
+	z-index: 5;
+	position: relative;
+}
+.cont-carro .carro.sinm  {
+	margin: 0 19px;
+}
+.cont-carro .carro .marco-fin {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-image: url(../img/marco-carro-bog.png);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	float: left;
+	height: 47px;
+	width: 853px;
+}
+
+.cont-carro .carro.datos {
+	background-image: none;
+	float: left;
+	height: auto;
+	width: 852px;
+	z-index: 5;
+	border: 1px solid #D8D8D8;
+	margin-top: 10;
+	margin-right: 54px;
+	margin-bottom: 20px;
+	margin-left: 54px;
+}
+.cont-carro .carro h2 {
+    color: #333333;
+    font-size: 15px;
+    font-weight: 900;
+    margin: 10px 20px;
+    text-align: left;
+    text-decoration: none;
+}
+.cont-carro .carro .item {
+    border-style: none;
+    float: left;
+    height: 466px;
+    margin: 0 11px;
+    width: 830px;
+}
+
+.cont-carro .carro .item tr {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	float:left;
+    width: 825px;
+/*	width:820px;*/
+}
+.cont-carro .carro .item tbody   {
+	background-color: #FFF;
+    float: left;
+    margin: 5px 2px;
+    width: 823px;
+}
+
+.cont-carro .carro .item td ,th{
+    color: #33476B;
+    float: left;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px 5px;
+    text-align: center;
+    vertical-align: middle;
+    width: 110px;
+}
+.cont-carro .carro .item tr .tarjetas {
+	/* [disabled]margin: 15px 80px 0; */
+    padding: 0;
+    width: 292px;
+}
+.cont-carro  .carro .item tr .info {
+    margin-top: 15px;
+    text-align: center;
+    width: 240px;
+}
+.cont-carro .carro .item tr .info.dos {
+    height: 100px;
+    margin-top: 15px;
+    text-align: center;
+    width: auto;
+}
+
+.cont-carro .carro .item tr .info.mini {
+	float: left;
+/*	width: 130px;*/
+	width:110px;
+}
+.cont-carro .carro .item tr .info.tres {
+    margin: 15px 0 0;
+    width: 180px;
+}
+
+.cont-carro .carro .item tr .eliminar {
+	float: left;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 80px;
+}
+.cont-carro .carro .item tr .derecha {
+	float: right;
+	width: auto;
+}
+
+.cont-carro .carro .item tr.noborde {
+	border-bottom-style: none;
+	margin: 0 0 40px;
+}
+.cont-carro .carro .item tr td .price {
+	text-align:center;
+	float:left;
+	width: 100px;
+}
+.cont-carro .carro .item tr td h3  {
+    color: #33476B;
+    font-size: 12px;
+    font-weight: bold;
+    height: 30px;
+    text-align: left;
+    text-decoration: none;
+    width: 180px;
+}
+.cont-carro .carro .item tr td.info.tres h3.sub {
+	height:15px;
+	text-align:right !important;
+	margin:0 !important;
+}
+.cont-carro .carro .item tr td.info.tres h3.sub.der {
+	text-align:left !important;
+
+}
+.cont-carro .carro .item .despacho {
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top: 1px dotted #CCCCCC;
+    height: 35px;
+    padding: 10px 0 0;
+    width: 180px;
+}
+.cont-carro .carro .item .despacho.tamano {
+    width: 250px;
+}
+.cont-carro .carro .item .despacho p {
+    float: left;
+    font-size: 11px;
+    margin-left: 0;
+    text-align: right;
+    width: 180px;
+}
+.cont-carro .carro .item .despacho b.precio-des {
+	float: right;
+	margin: 0px;
+	text-align: right;
+}
+
+.cont-carro .carro .item tr td p  {
+	font-size: 11px;
+	text-decoration: none;
+	width: 200px;
+	text-align:left;
+}
+.cont-carro .carro .item tr td p.datos {
+	width: 400px;
+}
+
+
+.cont-carro .carro .item tr p.rosa {
+    color: #FF2CEF;
+    display: block;
+    float: left;
+    font-weight: bold;
+    text-decoration: none;
+    width: 240px;
+}
+.cont-carro .carro .item tr td p.cod {
+	display: block;
+}
+
+.cont-carro .carro .item tr td a.delete {
+    background-image: url("../img/border-eliminar.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    color: #AA4343;
+    float: left;
+    font-size: 11px;
+    height: 16px;
+    padding: 3px 0 0 6px;
+    text-align: center;
+    text-decoration: none;
+    width: 66px;
+}
+.cont-carro .carro .item tr td a.delete:hover {
+	text-decoration: underline;
+}
+.cont-carro .carro .item tr td a.agrega {
+    color: #33476B;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 5px 0;
+    padding: 0;
+    text-decoration: none;
+}
+.cont-carro .carro .item tr td a.agrega:hover {
+	text-decoration: underline;
+}
+.cont-carro .carro .item tr td .agrega .mas {
+    background-image: url("../img/agregar-producto.png");
+    float: right;
+    height: 17px;
+    margin: 0 10px;
+    width: 16px;
+}
+
+.cont-carro .carro .item tr td a.politicas {
+    color: #964E1F;
+    float: left;
+    font-size: 11px;
+    text-align: right;
+    text-decoration: underline;
+    width: 180px;
+}
+.cont-carro .carro .item tr td a.politicas.dos {
+    color: #964E1F;
+    float: right !important;
+    font-size: 11px;
+    margin-top: 4px;
+    text-align: left;
+    width: 230px;
+}
+.cont-carro .carro .item tr td a.politicas:hover {
+	color: #CE6C2B;
+	text-decoration: none;
+}
+
+.cont-carro .carro .item tr td .total {
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 5px 0;
+    text-align: right;
+    text-decoration: none;
+    width: 180px;
+}
+.cont-carro .carro .item tr td .total.der {
+	text-align:left;
+	
+}
+.cont-carro .carro .item .noborde .info.tres .despacho .in-chek      {
+	float: left;
+	margin: 0 !important;
+}
+.error{
+	border: red;
+}
